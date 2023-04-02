@@ -1,0 +1,962 @@
+id,number,model,name,unit_price
+1,L8N0649,LaptopC6,Laptop,340
+2,L8N0649,LaptopA9,Laptop,450
+3,L8N0649,LaptopI7,Laptop,550
+4,L8N0649,Laptop78,Laptop,20
+5,L7B6430,Laptop'SBatteryT2,Laptop'S Battery,310
+6,L504L71,LaptopPowerAdapter37,Laptop Power Adapter,290
+7,L504L71,LaptopPowerAdapterD3,Laptop Power Adapter,170
+8,L17546O,LaptopDockingStation94,Laptop Docking Station,240
+9,L17546O,LaptopDockingStation45,Laptop Docking Station,560
+10,L17546O,LaptopDockingStationF9,Laptop Docking Station,890
+11,L17546O,LaptopDockingStationQ9,Laptop Docking Station,940
+12,NY39107,NotebookFilmY0,Notebook Film,960
+13,NY39107,NotebookFilmZ1,Notebook Film,640
+14,NY39107,NotebookFilm95,Notebook Film,120
+15,L7P4035,LaptopDesk43,Laptop Desk,240
+16,L7P4035,LaptopDesk45,Laptop Desk,80
+17,L7P4035,LaptopDesk56,Laptop Desk,770
+18,N62Z458,NotebookAccessoriesA7,Notebook Accessories,570
+19,N62Z458,NotebookAccessories35,Notebook Accessories,410
+20,N62Z458,NotebookAccessoriesA4,Notebook Accessories,280
+21,N62Z458,NotebookAccessoriesA6,Notebook Accessories,790
+22,N62Z458,NotebookAccessories20,Notebook Accessories,520
+23,N13J804,NotebookCase47,Notebook Case,70
+24,N13J804,NotebookCaseF3,Notebook Case,900
+25,N13J804,NotebookCaseP4,Notebook Case,430
+26,N13J804,NotebookCaseZ1,Notebook Case,550
+27,N13J804,NotebookCase03,Notebook Case,390
+28,L8930C4,LaptopDisplay24,Laptop Display,900
+29,L8930C4,LaptopDisplayF0,Laptop Display,200
+30,T035M47,Tablet90,Tablet,950
+31,T035M47,TabletD9,Tablet,780
+32,T035M47,TabletU8,Tablet,250
+33,T035M47,Tablet82,Tablet,670
+34,T035M47,TabletQ7,Tablet,500
+35,T1239W5,TabletBag62,Tablet Bag,320
+36,T1239W5,TabletBagG4,Tablet Bag,880
+37,T38951Z,TabletCase05,Tablet Case,350
+38,T95761U,TabletBase60,Tablet Base,910
+39,T95761U,TabletBase04,Tablet Base,670
+40,T95761U,TabletBaseW5,Tablet Base,660
+41,FK39705,FlatFilm27,Flat Film,430
+42,FK39705,FlatFilmT9,Flat Film,930
+43,FK39705,FlatFilm07,Flat Film,610
+44,FK39705,FlatFilm91,Flat Film,380
+45,FK39705,FlatFilm23,Flat Film,90
+46,CZ28413,CarEquipment85,Car Equipment,990
+47,CZ28413,CarEquipmentS3,Car Equipment,380
+48,CZ28413,CarEquipment58,Car Equipment,780
+49,CZ28413,CarEquipment35,Car Equipment,730
+50,CZ28413,CarEquipment57,Car Equipment,640
+51,C186H47,ConnectingLine29,Connecting Line,200
+52,C186H47,ConnectingLine92,Connecting Line,580
+53,C186H47,ConnectingLine54,Connecting Line,150
+54,C186H47,ConnectingLine13,Connecting Line,470
+55,O853L07,OtherAccessoriesQ9,Other Accessories,540
+56,D0Q2543,DesktopPc74,Desktop Pc,890
+57,D0Q2543,DesktopPc78,Desktop Pc,260
+58,D0Q2543,DesktopPcP3,Desktop Pc,790
+59,D0Q2543,DesktopPcZ6,Desktop Pc,920
+60,D0Q2543,DesktopPc48,Desktop Pc,270
+61,A31Y204,AllInOneComputerT0,All In One Computer,840
+62,W9718W3,WorkstationU5,Workstation,60
+63,W9718W3,Workstation06,Workstation,490
+64,W9718W3,WorkstationQ9,Workstation,430
+65,C7826A5,ComputerRemoteControlN5,Computer Remote Control,230
+66,C7826A5,ComputerRemoteControl02,Computer Remote Control,640
+67,C7826A5,ComputerRemoteControlG0,Computer Remote Control,790
+68,B306F21,Barebones71,Barebones,960
+69,I94V518,IndustrialControlEquipment60,Industrial Control Equipment,620
+70,I94V518,IndustrialControlEquipment34,Industrial Control Equipment,350
+71,I94V518,IndustrialControlEquipmentB7,Industrial Control Equipment,320
+72,ML18593,Minicomputer24,Minicomputer,440
+73,C1F0953,ComputerFingerprintEncryptionLockE3,Computer Fingerprint Encryption Lock,100
+74,C1F0953,ComputerFingerprintEncryptionLock04,Computer Fingerprint Encryption Lock,370
+75,C1F0953,ComputerFingerprintEncryptionLock83,Computer Fingerprint Encryption Lock,570
+76,CG63821,ComputerTerminal43,Computer Terminal,360
+77,MR46392,MobilePhone56,Mobile Phone,410
+78,MR46392,MobilePhone49,Mobile Phone,340
+79,MR46392,MobilePhoneJ2,Mobile Phone,440
+80,C681E75,CellPhoneBattery21,Cell Phone Battery,710
+81,M40V792,MobilePhoneCharger07,Mobile Phone Charger,10
+82,M40V792,MobilePhoneChargerF9,Mobile Phone Charger,10
+83,M40V792,MobilePhoneChargerD7,Mobile Phone Charger,510
+84,C7G8396,CellphoneDataLine26,Cellphone Data Line,450
+85,C7G8396,CellphoneDataLineP5,Cellphone Data Line,350
+86,C7G8396,CellphoneDataLine14,Cellphone Data Line,540
+87,M9P8604,MobilePhoneStylus63,Mobile Phone Stylus,690
+88,M9P8604,MobilePhoneStylusX9,Mobile Phone Stylus,790
+89,M70628E,MobilePhoneBaseX8,Mobile Phone Base,580
+90,M0467E1,MobilePhoneFilm18,Mobile Phone Film,740
+91,M0467E1,MobilePhoneFilmZ7,Mobile Phone Film,860
+92,M0467E1,MobilePhoneFilm78,Mobile Phone Film,500
+93,M0467E1,MobilePhoneFilmH3,Mobile Phone Film,220
+94,A273M51,Anti-SlipMobilePhoneP9,Anti-Slip Mobile Phone,820
+95,A273M51,Anti-SlipMobilePhoneP4,Anti-Slip Mobile Phone,900
+96,A273M51,Anti-SlipMobilePhone15,Anti-Slip Mobile Phone,380
+97,A273M51,Anti-SlipMobilePhone26,Anti-Slip Mobile Phone,770
+98,A273M51,Anti-SlipMobilePhone87,Anti-Slip Mobile Phone,690
+99,M79W815,MobilePhoneCarAccessories90,Mobile Phone Car Accessories,390
+100,M79W815,MobilePhoneCarAccessoriesW6,Mobile Phone Car Accessories,60
+101,M79W815,MobilePhoneCarAccessoriesR1,Mobile Phone Car Accessories,640
+102,M79W815,MobilePhoneCarAccessories21,Mobile Phone Car Accessories,420
+103,MG73026,MobilePhoneCompanion86,Mobile Phone Companion,300
+104,MG73026,MobilePhoneCompanionI6,Mobile Phone Companion,620
+105,G21467A,GpsE3,Gps,810
+106,G21467A,GpsI3,Gps,590
+107,G21467A,Gps21,Gps,290
+108,G21467A,Gps07,Gps,250
+109,P7604Q5,Pbx05,Pbx,980
+110,P7604Q5,Pbx69,Pbx,770
+111,P7604Q5,Pbx06,Pbx,120
+112,P7604Q5,Pbx97,Pbx,200
+113,P7604Q5,PbxW9,Pbx,220
+114,W318D96,Walkie-TalkieI5,Walkie-Talkie,880
+115,W318D96,Walkie-Talkie31,Walkie-Talkie,340
+116,T0X9417,TelephoneM2,Telephone,870
+117,T0X9417,TelephoneU9,Telephone,640
+118,T0X9417,TelephoneH7,Telephone,380
+119,T0X9417,Telephone67,Telephone,600
+120,V6Q9754,VoiceRecording38,Voice Recording,310
+121,V6Q9754,VoiceRecording52,Voice Recording,560
+122,V6Q9754,VoiceRecordingL5,Voice Recording,430
+123,V6Q9754,VoiceRecordingR0,Voice Recording,640
+124,O032T69,OnlineTelephone15,Online Telephone,180
+125,O032T69,OnlineTelephoneO8,Online Telephone,380
+126,T540P67,TelephoneConferenceY7,Telephone Conference,240
+127,T540P67,TelephoneConference05,Telephone Conference,160
+128,T540P67,TelephoneConferenceI1,Telephone Conference,1000
+129,P1D2567,PhoneVoiceCardC4,Phone Voice Card,780
+130,C8739R1,CallCenterC9,Call Center,150
+131,P6O1843,Pager17,Pager,210
+132,D50A198,DigitalCamera56,Digital Camera,60
+133,D50A198,DigitalCameraS4,Digital Camera,700
+134,D50A198,DigitalCamera90,Digital Camera,510
+135,D50A198,DigitalCamera75,Digital Camera,990
+136,D8560Q1,DigitalCamera85,Digital Camera,970
+137,LO12047,LensQ4,Lens,190
+138,LO12047,LensD7,Lens,450
+139,LO12047,LensI9,Lens,910
+140,F6L2495,FlashCard87,Flash Card,410
+141,F6L2495,FlashCard95,Flash Card,660
+142,F6L2495,FlashCardU8,Flash Card,830
+143,F6L2495,FlashCardG3,Flash Card,120
+144,C741G20,CardReader59,Card Reader,920
+145,C741G20,CardReaderQ9,Card Reader,760
+146,C741G20,CardReaderQ0,Card Reader,240
+147,C741G20,CardReaderL3,Card Reader,690
+148,C58G293,CameraFilm45,Camera Film,20
+149,C58G293,CameraFilmO0,Camera Film,860
+150,C58G293,CameraFilmQ3,Camera Film,290
+151,FJ71643,Filter19,Filter,480
+152,FJ71643,Filter91,Filter,860
+153,T75D268,TripodF5,Tripod,110
+154,T75D268,Tripod50,Tripod,870
+155,H089L35,HoodP6,Hood,830
+156,H089L35,Hood15,Hood,990
+157,H089L35,HoodB4,Hood,80
+158,H089L35,HoodX9,Hood,270
+159,F790I64,Flash95,Flash,390
+160,F790I64,FlashU8,Flash,900
+161,F76983D,FlashAccessories02,Flash Accessories,930
+162,F76983D,FlashAccessories41,Flash Accessories,360
+163,F76983D,FlashAccessories76,Flash Accessories,420
+164,F76983D,FlashAccessories19,Flash Accessories,930
+165,C3752Y9,CameraBattery09,Camera Battery,300
+166,C3752Y9,CameraBatteryO2,Camera Battery,750
+167,C3752Y9,CameraBattery26,Camera Battery,60
+168,C3752Y9,CameraBattery40,Camera Battery,730
+169,C48967S,ChargerD9,Charger,850
+170,C48967S,Charger07,Charger,210
+171,C48967S,Charger01,Charger,850
+172,C48967S,ChargerF5,Charger,680
+173,C48967S,ChargerU3,Charger,790
+174,C37A594,CameraBag51,Camera Bag,400
+175,C37A594,CameraBagX6,Camera Bag,880
+176,C37A594,CameraBagI1,Camera Bag,530
+177,C37A594,CameraBagA2,Camera Bag,340
+178,P4052D1,PhotoBox56,Photo Box,910
+179,P4052D1,PhotoBoxP3,Photo Box,120
+180,P4052D1,PhotoBox94,Photo Box,10
+181,P4052D1,PhotoBoxU2,Photo Box,450
+182,P4052D1,PhotoBox60,Photo Box,300
+183,A794O23,AdapterRing70,Adapter Ring,350
+184,A794O23,AdapterRing49,Adapter Ring,160
+185,L903I17,LensCapR5,Lens Cap,360
+186,L903I17,LensCapU7,Lens Cap,30
+187,L903I17,LensCap93,Lens Cap,280
+188,L903I17,LensCapN9,Lens Cap,450
+189,VM86749,ViewfinderL1,Viewfinder,840
+190,S1490W6,ShutterReleaseP4,Shutter Release,720
+191,S956G17,SlrHandle74,Slr Handle,350
+192,S956G17,SlrHandleU6,Slr Handle,160
+193,C98142A,CameraRemoteO4,Camera Remote,310
+194,C98142A,CameraRemoteK4,Camera Remote,570
+195,F9N8470,FocusingScreenU7,Focusing Screen,920
+196,F9N8470,FocusingScreenP9,Focusing Screen,410
+197,F9N8470,FocusingScreenU5,Focusing Screen,90
+198,F9N8470,FocusingScreenR8,Focusing Screen,770
+199,F9N8470,FocusingScreenU8,Focusing Screen,520
+200,C46258Y,CleaningAndMaintenance12,Cleaning And Maintenance,740
+201,C46258Y,CleaningAndMaintenanceD0,Cleaning And Maintenance,940
+202,C46258Y,CleaningAndMaintenanceY4,Cleaning And Maintenance,610
+203,C46258Y,CleaningAndMaintenanceE5,Cleaning And Maintenance,810
+204,C6C1543,ColorManagementX0,Color Management,780
+205,B8E1796,Binoculars12,Binoculars,400
+206,B8E1796,BinocularsJ1,Binoculars,90
+207,M8I1749,MonocularC0,Monocular,940
+208,M8I1749,Monocular54,Monocular,560
+209,M8I1749,MonocularY1,Monocular,490
+210,M8I1749,Monocular31,Monocular,680
+211,TU23769,Telescope92,Telescope,220
+212,TU23769,TelescopeL9,Telescope,280
+213,TU23769,Telescope03,Telescope,370
+214,M713N46,MicroscopeU0,Microscope,30
+215,M2589S0,Mp3A1,Mp3,990
+216,M9J6453,Mp4Z2,Mp4,650
+217,M9J6453,Mp437,Mp4,780
+218,M9J6453,Mp4O7,Mp4,530
+219,M9J6453,Mp4C9,Mp4,120
+220,M9J6453,Mp405,Mp4,720
+221,D0W8356,DigitalMobileTvZ2,Digital Mobile Tv,380
+222,D0W8356,DigitalMobileTv84,Digital Mobile Tv,420
+223,D0W8356,DigitalMobileTv28,Digital Mobile Tv,530
+224,D0W8356,DigitalMobileTvO8,Digital Mobile Tv,290
+225,D0W8356,DigitalMobileTvH2,Digital Mobile Tv,870
+226,E895N12,EarphoneV5,Earphone,580
+227,E895N12,EarphoneP5,Earphone,310
+228,E895N12,Earphone49,Earphone,40
+229,E895N12,Earphone27,Earphone,790
+230,U198C32,UDisk10,U Disk,530
+231,U198C32,UDiskJ7,U Disk,830
+232,U198C32,UDiskY8,U Disk,190
+233,U198C32,UDiskK0,U Disk,660
+234,M2348K0,MobileHardDisk72,Mobile Hard Disk,820
+235,M2348K0,MobileHardDisk42,Mobile Hard Disk,110
+236,E7R6098,E-Book16,E-Book,270
+237,E7R6098,E-BookF8,E-Book,760
+238,E7R6098,E-BookD6,E-Book,890
+239,E7R6098,E-Book87,E-Book,680
+240,R7248S9,RecordingPenM2,Recording Pen,560
+241,R7248S9,RecordingPenR9,Recording Pen,280
+242,R7248S9,RecordingPenA3,Recording Pen,860
+243,C91D367,Camera95,Camera,960
+244,C91D367,Camera35,Camera,520
+245,MR92570,MicrophoneDigitalCompanion60,Microphone Digital Companion,950
+246,MR92570,MicrophoneDigitalCompanion64,Microphone Digital Companion,160
+247,MR92570,MicrophoneDigitalCompanionX4,Microphone Digital Companion,960
+248,MR92570,MicrophoneDigitalCompanionF7,Microphone Digital Companion,680
+249,D68950Z,DigitalFrame48,Digital Frame,340
+250,D68950Z,DigitalFrameE7,Digital Frame,900
+251,D68950Z,DigitalFrame12,Digital Frame,820
+252,P09Y825,PocketPcN8,Pocket Pc,730
+253,P09Y825,PocketPc24,Pocket Pc,380
+254,P09Y825,PocketPc54,Pocket Pc,650
+255,P09Y825,PocketPcE0,Pocket Pc,240
+256,P09Y825,PocketPcV3,Pocket Pc,530
+257,E6N2308,ElectronicDictionaryG3,Electronic Dictionary,340
+258,E6N2308,ElectronicDictionary86,Electronic Dictionary,590
+259,E6N2308,ElectronicDictionary67,Electronic Dictionary,570
+260,R58049A,ReadingMachine54,Reading Machine,690
+261,R58049A,ReadingMachineQ3,Reading Machine,880
+262,RZ42653,RepeaterK4,Repeater,320
+263,RZ42653,RepeaterV9,Repeater,170
+264,M97X845,MobilePowerN6,Mobile Power,170
+265,M97X845,MobilePowerK1,Mobile Power,950
+266,M97X845,MobilePowerV4,Mobile Power,80
+267,M97X845,MobilePowerO4,Mobile Power,290
+268,M97X845,MobilePower20,Mobile Power,40
+269,M4329T8,Multimedia49,Multimedia,530
+270,M4329T8,Multimedia39,Multimedia,810
+271,H8713D4,HardDiskRecordingT5,Hard Disk Recording,170
+272,H8713D4,HardDiskRecording82,Hard Disk Recording,260
+273,DD18704,DigitalAccessoriesD7,Digital Accessories,440
+274,DD18704,DigitalAccessoriesL9,Digital Accessories,270
+275,M5809H7,MotherboardA2,Motherboard,900
+276,M5809H7,MotherboardZ4,Motherboard,670
+277,M5809H7,MotherboardP7,Motherboard,890
+278,G70Z416,GraphicsCardC0,Graphics Card,290
+279,C02614Q,Cpu60,Cpu,320
+280,C02614Q,Cpu68,Cpu,410
+281,C02614Q,Cpu37,Cpu,840
+282,C02614Q,Cpu38,Cpu,620
+283,R6K1395,Ram93,Ram,560
+284,R6K1395,RamZ7,Ram,590
+285,R6K1395,RamY9,Ram,600
+286,H5684K7,HardDiskA7,Hard Disk,500
+287,CN93120,Chassis83,Chassis,720
+288,CN93120,ChassisZ1,Chassis,60
+289,P968H24,PowerSupply63,Power Supply,600
+290,H64578X,HeatSink10,Heat Sink,800
+291,H64578X,HeatSink24,Heat Sink,400
+292,H64578X,HeatSink95,Heat Sink,520
+293,S36N209,Ssd50,Ssd,90
+294,S36N209,Ssd73,Ssd,210
+295,CO19853,Cd-Rom67,Cd-Rom,540
+296,CO19853,Cd-Rom02,Cd-Rom,630
+297,S03485W,SoundCardE9,Sound Card,740
+298,S03485W,SoundCard61,Sound Card,30
+299,S03485W,SoundCard93,Sound Card,10
+300,L5T1069,LcdMonitor47,Lcd Monitor,320
+301,S8104Z6,Speaker30,Speaker,900
+302,S8104Z6,Speaker31,Speaker,480
+303,K62879Z,KeyboardAndMouseSet90,Keyboard And Mouse Set,100
+304,K62879Z,KeyboardAndMouseSet74,Keyboard And Mouse Set,620
+305,K62879Z,KeyboardAndMouseSetF3,Keyboard And Mouse Set,600
+306,K62879Z,KeyboardAndMouseSet73,Keyboard And Mouse Set,810
+307,M6328D7,MouseB8,Mouse,710
+308,M6328D7,Mouse12,Mouse,630
+309,M6328D7,Mouse94,Mouse,680
+310,M6328D7,MouseG8,Mouse,990
+311,K7458M2,KeyboardS0,Keyboard,490
+312,K7458M2,Keyboard28,Keyboard,420
+313,M489T70,MousePad98,Mouse Pad,350
+314,ME59832,MouseFootStickerK1,Mouse Foot Sticker,490
+315,H4239U1,HandwritingInputE9,Handwriting Input,720
+316,S93N807,SpeakerAccessories69,Speaker Accessories,690
+317,S93N807,SpeakerAccessoriesG0,Speaker Accessories,490
+318,S93N807,SpeakerAccessoriesB0,Speaker Accessories,240
+319,S93N807,SpeakerAccessories96,Speaker Accessories,660
+320,B189A57,BluetoothAdapter64,Bluetooth Adapter,300
+321,B189A57,BluetoothAdapterL1,Bluetooth Adapter,440
+322,B189A57,BluetoothAdapterP2,Bluetooth Adapter,170
+323,M328K91,MonitorF1,Monitor,50
+324,M328K91,Monitor84,Monitor,450
+325,M328K91,MonitorU9,Monitor,840
+326,M328K91,Monitor57,Monitor,890
+327,M328K91,MonitorB2,Monitor,480
+328,H9842K1,HardDisk52,Hard Disk,100
+329,I79Y023,InfraredAdapterS3,Infrared Adapter,820
+330,V56301I,VideoCaptureCard04,Video Capture Card,470
+331,V56301I,VideoCaptureCard83,Video Capture Card,440
+332,V56301I,VideoCaptureCard60,Video Capture Card,710
+333,H239M48,HardDisk51,Hard Disk,300
+334,CF29758,Cd-RomBox81,Cd-Rom Box,620
+335,CF29758,Cd-RomBox87,Cd-Rom Box,460
+336,CF29758,Cd-RomBox49,Cd-Rom Box,720
+337,CM46520,CableAdapterCardN9,Cable Adapter Card,10
+338,C2F0671,CdX0,Cd,10
+339,C2F0671,Cd49,Cd,730
+340,C2F0671,Cd24,Cd,910
+341,C2F0671,Cd95,Cd,450
+342,C2F0671,Cd74,Cd,420
+343,M320L69,MotherboardChipsetK8,Motherboard Chipset,780
+344,M320L69,MotherboardChipsetY5,Motherboard Chipset,50
+345,DE13695,DisplayChipB4,Display Chip,270
+346,L891S65,LcdTv45,Lcd Tv,630
+347,L891S65,LcdTvS3,Lcd Tv,520
+348,L891S65,LcdTvV7,Lcd Tv,930
+349,L891S65,LcdTvG1,Lcd Tv,150
+350,P15647X,PlasmaTv10,Plasma Tv,880
+351,T28310Y,TvHanger86,Tv Hanger,250
+352,T28310Y,TvHanger69,Tv Hanger,300
+353,T67P542,TvBaseT6,Tv Base,300
+354,T67P542,TvBaseR1,Tv Base,890
+355,T67P542,TvBase65,Tv Base,600
+356,T67P542,TvBaseP0,Tv Base,50
+357,T67P542,TvBase30,Tv Base,740
+358,R243J08,RemoteControlI4,Remote Control,710
+359,R243J08,RemoteControlL3,Remote Control,490
+360,R243J08,RemoteControl83,Remote Control,460
+361,R243J08,RemoteControlU8,Remote Control,480
+362,R243J08,RemoteControlJ8,Remote Control,200
+363,HW53167,HomeTheater30,Home Theater,140
+364,HW53167,HomeTheater94,Home Theater,250
+365,WC49732,WirelessHdX1,Wireless Hd,510
+366,WC49732,WirelessHd53,Wireless Hd,880
+367,WC49732,WirelessHdC8,Wireless Hd,970
+368,WC49732,WirelessHdS0,Wireless Hd,830
+369,B56K283,Blu-RayPlayer63,Blu-Ray Player,420
+370,B56K283,Blu-RayPlayerD5,Blu-Ray Player,950
+371,B56K283,Blu-RayPlayerG1,Blu-Ray Player,180
+372,DT47956,DvdPlayer78,Dvd Player,350
+373,DT47956,DvdPlayerG0,Dvd Player,340
+374,DT47956,DvdPlayer89,Dvd Player,400
+375,TO87603,TvPlayer60,Tv Player,80
+376,SL87069,SetTopBoxW7,Set Top Box,660
+377,SL87069,SetTopBoxD3,Set Top Box,370
+378,SL87069,SetTopBoxV1,Set Top Box,440
+379,SL87069,SetTopBox78,Set Top Box,400
+380,SL87069,SetTopBoxI0,Set Top Box,470
+381,A02N847,AudioAndVideoCableP6,Audio And Video Cable,230
+382,I436H05,InternetLivingRoomFitnessW4,Internet Living Room Fitness,570
+383,A35J746,AirConditioner85,Air Conditioner,570
+384,A35J746,AirConditionerF9,Air Conditioner,90
+385,A35J746,AirConditioner27,Air Conditioner,830
+386,A35J746,AirConditioner71,Air Conditioner,500
+387,A35J746,AirConditioner38,Air Conditioner,760
+388,W08294X,WashingMachine56,Washing Machine,420
+389,R39U102,RefrigeratorZ7,Refrigerator,560
+390,F9135R4,Freezer65,Freezer,720
+391,F9135R4,FreezerP7,Freezer,80
+392,F9135R4,Freezer85,Freezer,790
+393,R796N84,RangeHood35,Range Hood,350
+394,R796N84,RangeHoodO1,Range Hood,810
+395,R796N84,RangeHoodI8,Range Hood,70
+396,R796N84,RangeHoodE2,Range Hood,60
+397,R796N84,RangeHoodC9,Range Hood,1000
+398,G58A216,GasStoves79,Gas Stoves,210
+399,R45327J,RiceCooker18,Rice Cooker,150
+400,P6398B4,PressureCookerP8,Pressure Cooker,680
+401,P6398B4,PressureCookerS7,Pressure Cooker,400
+402,H7143H9,HotPotJ2,Hot Pot,310
+403,H7143H9,HotPot14,Hot Pot,590
+404,H7143H9,HotPot92,Hot Pot,190
+405,H7143H9,HotPotI6,Hot Pot,120
+406,I8206B5,InductionCookerD2,Induction Cooker,120
+407,I8206B5,InductionCooker21,Induction Cooker,260
+408,I8206B5,InductionCookerE7,Induction Cooker,870
+409,M108M47,Micro-WaveOvenJ2,Micro-Wave Oven,250
+410,EU82057,ElectricBakingPan74,Electric Baking Pan,950
+411,EU82057,ElectricBakingPanN2,Electric Baking Pan,780
+412,EU82057,ElectricBakingPanC6,Electric Baking Pan,850
+413,D230D47,DishwasherM7,Dishwasher,530
+414,D230D47,Dishwasher49,Dishwasher,230
+415,D230D47,Dishwasher20,Dishwasher,670
+416,D230D47,Dishwasher18,Dishwasher,720
+417,DB83217,DisinfectionCabinetQ3,Disinfection Cabinet,990
+418,DB83217,DisinfectionCabinetQ0,Disinfection Cabinet,780
+419,DB83217,DisinfectionCabinetX2,Disinfection Cabinet,750
+420,E9G8372,ExhaustFanD8,Exhaust Fan,20
+421,W1473B8,WaterHeater94,Water Heater,880
+422,W1473B8,WaterHeater40,Water Heater,60
+423,W1473B8,WaterHeater57,Water Heater,290
+424,W1473B8,WaterHeater71,Water Heater,520
+425,S8465W1,SolarWaterHeatersU5,Solar Water Heaters,520
+426,S8465W1,SolarWaterHeaters80,Solar Water Heaters,40
+427,S8465W1,SolarWaterHeaters26,Solar Water Heaters,220
+428,S8465W1,SolarWaterHeaters12,Solar Water Heaters,820
+429,GC81302,GasWaterHeaterB3,Gas Water Heater,970
+430,GC81302,GasWaterHeaterF8,Gas Water Heater,540
+431,GC81302,GasWaterHeaterS7,Gas Water Heater,800
+432,GC81302,GasWaterHeaterN7,Gas Water Heater,220
+433,GC81302,GasWaterHeaterF4,Gas Water Heater,780
+434,CC50327,CentralWaterHeaterI0,Central Water Heater,490
+435,CC50327,CentralWaterHeaterV6,Central Water Heater,120
+436,CC50327,CentralWaterHeaterX5,Central Water Heater,870
+437,CC50327,CentralWaterHeater34,Central Water Heater,840
+438,YS95071,Yuba80,Yuba,910
+439,YS95071,YubaR4,Yuba,1000
+440,YS95071,YubaE3,Yuba,250
+441,YS95071,Yuba48,Yuba,980
+442,T9T8140,ToasterElectricOven06,Toaster Electric Oven,620
+443,T9T8140,ToasterElectricOvenX4,Toaster Electric Oven,480
+444,T9T8140,ToasterElectricOvenB8,Toaster Electric Oven,560
+445,T9T8140,ToasterElectricOvenO2,Toaster Electric Oven,380
+446,T9T8140,ToasterElectricOven64,Toaster Electric Oven,630
+447,E8T2037,ElectricHeaterP7,Electric Heater,890
+448,E8T2037,ElectricHeaterE3,Electric Heater,270
+449,E8T2037,ElectricHeater39,Electric Heater,490
+450,E8T2037,ElectricHeaterR1,Electric Heater,350
+451,A50L172,Air-ConditioningFan81,Air-Conditioning Fan,510
+452,A50L172,Air-ConditioningFan79,Air-Conditioning Fan,480
+453,A50L172,Air-ConditioningFan38,Air-Conditioning Fan,600
+454,A50L172,Air-ConditioningFan21,Air-Conditioning Fan,600
+455,A50L172,Air-ConditioningFan51,Air-Conditioning Fan,530
+456,EZ12538,ElectricFanU8,Electric Fan,980
+457,EZ12538,ElectricFanE2,Electric Fan,820
+458,EZ12538,ElectricFanS3,Electric Fan,30
+459,EZ12538,ElectricFan12,Electric Fan,690
+460,HD86793,HumidifierY5,Humidifier,580
+461,HD86793,HumidifierE8,Humidifier,770
+462,HD86793,HumidifierZ4,Humidifier,940
+463,HD86793,HumidifierF6,Humidifier,810
+464,HD86793,HumidifierY1,Humidifier,380
+465,D51962U,DehumidifierK8,Dehumidifier,130
+466,D51962U,Dehumidifier97,Dehumidifier,770
+467,D51962U,DehumidifierT0,Dehumidifier,800
+468,D51962U,DehumidifierG3,Dehumidifier,670
+469,D51962U,DehumidifierP0,Dehumidifier,280
+470,SW03642,SoyMilkMachineF7,Soy Milk Machine,670
+471,SW03642,SoyMilkMachineM1,Soy Milk Machine,220
+472,SW03642,SoyMilkMachine50,Soy Milk Machine,670
+473,JS30927,JuicerJ9,Juicer,810
+474,F24170J,FruitAndVegetableWashingMachineX6,Fruit And Vegetable Washing Machine,830
+475,F24170J,FruitAndVegetableWashingMachineU6,Fruit And Vegetable Washing Machine,470
+476,F24170J,FruitAndVegetableWashingMachineL2,Fruit And Vegetable Washing Machine,490
+477,F24170J,FruitAndVegetableWashingMachineF9,Fruit And Vegetable Washing Machine,360
+478,F24170J,FruitAndVegetableWashingMachineX1,Fruit And Vegetable Washing Machine,440
+479,R81O564,RadioYogurtMakerP4,Radio Yogurt Maker,810
+480,R81O564,RadioYogurtMaker75,Radio Yogurt Maker,890
+481,R81O564,RadioYogurtMakerR4,Radio Yogurt Maker,180
+482,R81O564,RadioYogurtMaker82,Radio Yogurt Maker,310
+483,R81O564,RadioYogurtMaker92,Radio Yogurt Maker,90
+484,C6C1349,CoffeeMachineL7,Coffee Machine,280
+485,C6C1349,CoffeeMachineK4,Coffee Machine,540
+486,C6C1349,CoffeeMachine86,Coffee Machine,950
+487,E2L5374,ElectricKettleR3,Electric Kettle,350
+488,V5W8496,VacuumCleaner75,Vacuum Cleaner,160
+489,V5W8496,VacuumCleaner90,Vacuum Cleaner,510
+490,V5W8496,VacuumCleaner07,Vacuum Cleaner,760
+491,W05C734,WaterDispenserY1,Water Dispenser,420
+492,W05C734,WaterDispenserI8,Water Dispenser,760
+493,W05C734,WaterDispenser12,Water Dispenser,20
+494,W05C734,WaterDispenserO9,Water Dispenser,690
+495,H362I81,HairDryer59,Hair Dryer,850
+496,H362I81,HairDryerX7,Hair Dryer,760
+497,EE05684,ElectricIronB1,Electric Iron,680
+498,EE05684,ElectricIron24,Electric Iron,550
+499,EE05684,ElectricIronD7,Electric Iron,650
+500,EE05684,ElectricIronD4,Electric Iron,320
+501,AE80564,AirPurifierV6,Air Purifier,100
+502,AE80564,AirPurifierO6,Air Purifier,990
+503,AE80564,AirPurifierD4,Air Purifier,650
+504,F1L0847,FootBathEyeProtectionLampG9,Foot Bath Eye Protection Lamp,390
+505,F1L0847,FootBathEyeProtectionLamp74,Foot Bath Eye Protection Lamp,10
+506,F1L0847,FootBathEyeProtectionLamp14,Foot Bath Eye Protection Lamp,550
+507,T35X601,ToiletSeatU4,Toilet Seat,310
+508,T35X601,ToiletSeatO7,Toilet Seat,630
+509,T35X601,ToiletSeat05,Toilet Seat,10
+510,T35X601,ToiletSeatC2,Toilet Seat,470
+511,T35X601,ToiletSeatM4,Toilet Seat,110
+512,R6713Q9,Razor72,Razor,80
+513,E738Y40,ElectricToothbrushX5,Electric Toothbrush,410
+514,E738Y40,ElectricToothbrush21,Electric Toothbrush,310
+515,E4280M5,EpilatorW2,Epilator,450
+516,E4280M5,EpilatorR1,Epilator,140
+517,E4280M5,Epilator24,Epilator,320
+518,E4280M5,EpilatorA8,Epilator,60
+519,E4280M5,EpilatorO0,Epilator,550
+520,M62870K,Massager63,Massager,670
+521,M62870K,Massager82,Massager,390
+522,M62870K,MassagerU3,Massager,290
+523,P20O395,PedometerT4,Pedometer,890
+524,P20O395,PedometerC2,Pedometer,460
+525,P8130N9,PrinterH8,Printer,30
+526,P8130N9,PrinterY4,Printer,720
+527,L0X9362,LaserPrinterT5,Laser Printer,810
+528,L0X9362,LaserPrinterC5,Laser Printer,550
+529,IQ87164,InkjetPrintersS4,Inkjet Printers,520
+530,IQ87164,InkjetPrintersW0,Inkjet Printers,780
+531,M421X86,Multifunctional39,Multifunctional,570
+532,M421X86,MultifunctionalF7,Multifunctional,290
+533,M421X86,Multifunctional31,Multifunctional,800
+534,M421X86,MultifunctionalT4,Multifunctional,920
+535,M421X86,Multifunctional48,Multifunctional,910
+536,L92148E,LargeFormatPrinter95,Large Format Printer,420
+537,L92148E,LargeFormatPrinterT5,Large Format Printer,870
+538,L92148E,LargeFormatPrinterD9,Large Format Printer,30
+539,L92148E,LargeFormatPrinterW0,Large Format Printer,680
+540,SB01298,Scanner21,Scanner,460
+541,SB01298,Scanner43,Scanner,470
+542,SB01298,Scanner87,Scanner,910
+543,SB01298,ScannerO9,Scanner,370
+544,F8E7125,FaxMachineCopierD4,Fax Machine Copier,170
+545,F8E7125,FaxMachineCopierY2,Fax Machine Copier,710
+546,F8E7125,FaxMachineCopierV8,Fax Machine Copier,110
+547,D265U39,DyeSublimationPrinterW3,Dye Sublimation Printer,260
+548,D265U39,DyeSublimationPrinter41,Dye Sublimation Printer,540
+549,D265U39,DyeSublimationPrinterA3,Dye Sublimation Printer,840
+550,D265U39,DyeSublimationPrinterY6,Dye Sublimation Printer,180
+551,D8150P6,DotMatrixPrinterS4,Dot Matrix Printer,980
+552,D8150P6,DotMatrixPrinter76,Dot Matrix Printer,190
+553,D8150P6,DotMatrixPrinterK1,Dot Matrix Printer,110
+554,D8150P6,DotMatrixPrinterV1,Dot Matrix Printer,230
+555,L60241X,LabelPrinterA6,Label Printer,600
+556,RC12709,ReceiptPrinter06,Receipt Printer,630
+557,RC12709,ReceiptPrinter76,Receipt Printer,400
+558,C9W7563,CardPrinterP8,Card Printer,980
+559,L15649H,LinePrinterX7,Line Printer,760
+560,L15649H,LinePrinter31,Line Printer,240
+561,I291Q38,IsbnPrinterW6,Isbn Printer,130
+562,I291Q38,IsbnPrinterA3,Isbn Printer,240
+563,I41V392,InkCartridgeC4,Ink Cartridge,330
+564,I41V392,InkCartridgeO9,Ink Cartridge,20
+565,I41V392,InkCartridgeU4,Ink Cartridge,960
+566,I41V392,InkCartridgeX2,Ink Cartridge,770
+567,T0829X7,TonerCartridgeH6,Toner Cartridge,190
+568,T0829X7,TonerCartridge29,Toner Cartridge,120
+569,T0829X7,TonerCartridge96,Toner Cartridge,260
+570,T0829X7,TonerCartridge20,Toner Cartridge,250
+571,TF15948,Toner79,Toner,580
+572,R04W892,Ribbon48,Ribbon,500
+573,R04W892,Ribbon17,Ribbon,270
+574,R04W892,RibbonS0,Ribbon,960
+575,R04W892,RibbonD5,Ribbon,970
+576,PY35974,PrintMediaD1,Print Media,310
+577,PY35974,PrintMedia70,Print Media,30
+578,PY35974,PrintMediaP9,Print Media,470
+579,PY35974,PrintMediaL2,Print Media,770
+580,PY35974,PrintMediaY8,Print Media,450
+581,P1275R8,PrintServerX4,Print Server,120
+582,P1275R8,PrintServer18,Print Server,770
+583,P1275R8,PrintServer04,Print Server,150
+584,P1275R8,PrintServerV0,Print Server,30
+585,UL87156,UpsPowerShredderJ5,Ups Power Shredder,630
+586,UL87156,UpsPowerShredder19,Ups Power Shredder,60
+587,UL87156,UpsPowerShredder92,Ups Power Shredder,770
+588,UL87156,UpsPowerShredderT7,Ups Power Shredder,270
+589,UL87156,UpsPowerShredderT4,Ups Power Shredder,530
+590,D7Y5182,DestroyEquipment06,Destroy Equipment,320
+591,D7Y5182,DestroyEquipment65,Destroy Equipment,980
+592,D7Y5182,DestroyEquipmentM9,Destroy Equipment,350
+593,C63081N,CdDuplicator58,Cd Duplicator,500
+594,C78629B,CdPrintRecorder59,Cd Print Recorder,590
+595,C78629B,CdPrintRecorder57,Cd Print Recorder,680
+596,C78629B,CdPrintRecorderL8,Cd Print Recorder,990
+597,C78629B,CdPrintRecorder13,Cd Print Recorder,50
+598,LR91308,LaminatingMachineE3,Laminating Machine,670
+599,LR91308,LaminatingMachineV6,Laminating Machine,940
+600,LR91308,LaminatingMachineY9,Laminating Machine,480
+601,LR91308,LaminatingMachineC3,Laminating Machine,230
+602,AA85346,All-In-OnePrintingMachineW9,All-In-One Printing Machine,420
+603,AA85346,All-In-OnePrintingMachine57,All-In-One Printing Machine,440
+604,C634K72,CashRegister62,Cash Register,390
+605,C634K72,CashRegisterY2,Cash Register,900
+606,C634K72,CashRegisterM3,Cash Register,270
+607,C634K72,CashRegister06,Cash Register,740
+608,C634K72,CashRegister74,Cash Register,560
+609,MC32085,MoneyCounterA3,Money Counter,780
+610,MC32085,MoneyCounter63,Money Counter,150
+611,P02C741,PaperCutter64,Paper Cutter,100
+612,P02C741,PaperCutterI4,Paper Cutter,420
+613,P02C741,PaperCutterV5,Paper Cutter,190
+614,P02C741,PaperCutter65,Paper Cutter,780
+615,D1G4290,Digitizer39,Digitizer,700
+616,D1G4290,Digitizer29,Digitizer,40
+617,D1G4290,Digitizer56,Digitizer,100
+618,D1G4290,Digitizer54,Digitizer,460
+619,D1G4290,DigitizerX4,Digitizer,410
+620,CY08734,CursorMarkingMachineR0,Cursor Marking Machine,790
+621,CY08734,CursorMarkingMachine03,Cursor Marking Machine,780
+622,CY08734,CursorMarkingMachineZ7,Cursor Marking Machine,610
+623,CY08734,CursorMarkingMachine84,Cursor Marking Machine,790
+624,C21057Z,CuttingPlotterD4,Cutting Plotter,30
+625,L29837Y,LaserPointersAndPresentersE8,Laser Pointers And Presenters,430
+626,L29837Y,LaserPointersAndPresentersS3,Laser Pointers And Presenters,410
+627,L29837Y,LaserPointersAndPresentersD7,Laser Pointers And Presenters,520
+628,L29837Y,LaserPointersAndPresentersV2,Laser Pointers And Presenters,480
+629,C9520Y6,ColdLaminatorK3,Cold Laminator,140
+630,C9520Y6,ColdLaminatorV6,Cold Laminator,890
+631,C9520Y6,ColdLaminator86,Cold Laminator,420
+632,C9520Y6,ColdLaminator63,Cold Laminator,830
+633,L0528N6,LaminatorMoDrive26,Laminator Mo Drive,410
+634,L0528N6,LaminatorMoDriveP4,Laminator Mo Drive,700
+635,L0528N6,LaminatorMoDrive12,Laminator Mo Drive,630
+636,L0528N6,LaminatorMoDriveH2,Laminator Mo Drive,770
+637,B830R57,BarcodeAndCardReadingEquipment20,Barcode And Card Reading Equipment,300
+638,B830R57,BarcodeAndCardReadingEquipment70,Barcode And Card Reading Equipment,630
+639,B830R57,BarcodeAndCardReadingEquipment27,Barcode And Card Reading Equipment,800
+640,B830R57,BarcodeAndCardReadingEquipment71,Barcode And Card Reading Equipment,960
+641,B830R57,BarcodeAndCardReadingEquipment34,Barcode And Card Reading Equipment,790
+642,P45Q120,PhotocopyingMachineS8,Photocopying Machine,230
+643,BE04182,BindingMachine56,Binding Machine,10
+644,BE04182,BindingMachineM0,Binding Machine,120
+645,O9F4205,OfficeEquipmentAccessoriesI1,Office Equipment Accessories,720
+646,O9F4205,OfficeEquipmentAccessories10,Office Equipment Accessories,20
+647,O9F4205,OfficeEquipmentAccessories73,Office Equipment Accessories,470
+648,O9F4205,OfficeEquipmentAccessories21,Office Equipment Accessories,820
+649,O9F4205,OfficeEquipmentAccessories24,Office Equipment Accessories,720
+650,H7Y6824,Hand-HeldGamingDeviceR5,Hand-Held Gaming Device,310
+651,H7Y6824,Hand-HeldGamingDeviceO6,Hand-Held Gaming Device,840
+652,H7Y6824,Hand-HeldGamingDeviceD7,Hand-Held Gaming Device,210
+653,H7Y6824,Hand-HeldGamingDeviceN2,Hand-Held Gaming Device,470
+654,H7Y6824,Hand-HeldGamingDeviceL3,Hand-Held Gaming Device,930
+655,V968Q15,VideoGameControllerZ5,Video Game Controller,550
+656,SY73215,SteeringWheel93,Steering Wheel,130
+657,SY73215,SteeringWheel71,Steering Wheel,210
+658,SY73215,SteeringWheel49,Steering Wheel,240
+659,SY73215,SteeringWheelI5,Steering Wheel,310
+660,G75X306,GameConsoleMemory17,Game Console Memory,410
+661,GS13927,GamePackL5,Game Pack,970
+662,GS13927,GamePackW4,Game Pack,320
+663,G427L06,GameConsoleFilmN2,Game Console Film,260
+664,G427L06,GameConsoleFilmN3,Game Console Film,10
+665,G80142H,GameConsoleBatteryZ5,Game Console Battery,850
+666,G80142H,GameConsoleBatteryB1,Game Console Battery,450
+667,G80142H,GameConsoleBattery50,Game Console Battery,830
+668,G80142H,GameConsoleBattery25,Game Console Battery,170
+669,G9372K0,GameChargerG5,Game Charger,250
+670,G9372K0,GameChargerA5,Game Charger,490
+671,G9372K0,GameChargerN0,Game Charger,280
+672,G9372K0,GameChargerZ3,Game Charger,850
+673,G9372K0,GameChargerK2,Game Charger,910
+674,G071O86,GameMachineWire98,Game Machine Wire,430
+675,G071O86,GameMachineWire80,Game Machine Wire,860
+676,G071O86,GameMachineWireH5,Game Machine Wire,490
+677,G071O86,GameMachineWire89,Game Machine Wire,570
+678,G8573U9,GameJoystick05,Game Joystick,360
+679,G053V91,GameLightGunGamePeripheral93,Game Light Gun Game Peripheral,150
+680,G053V91,GameLightGunGamePeripheralL5,Game Light Gun Game Peripheral,250
+681,C96H382,ClusterH8,Cluster,580
+682,C96H382,ClusterR4,Cluster,10
+683,C96H382,Cluster15,Cluster,260
+684,O36987R,OperatingSystemH9,Operating System,30
+685,O36987R,OperatingSystemY5,Operating System,600
+686,O8C6513,OfficeSoftwareD7,Office Software,170
+687,O8C6513,OfficeSoftware20,Office Software,830
+688,O8C6513,OfficeSoftwareS9,Office Software,170
+689,O8C6513,OfficeSoftwareT1,Office Software,40
+690,I1M6430,ImageSoftwareTypesettingSoftware28,Image Software Typesetting Software,890
+691,I1M6430,ImageSoftwareTypesettingSoftwareP6,Image Software Typesetting Software,580
+692,I1M6430,ImageSoftwareTypesettingSoftwareC6,Image Software Typesetting Software,350
+693,A59027Z,AidedDesignV1,Aided Design,850
+694,A59027Z,AidedDesign96,Aided Design,300
+695,A59027Z,AidedDesign56,Aided Design,180
+696,A59027Z,AidedDesign81,Aided Design,90
+697,A59027Z,AidedDesign24,Aided Design,60
+698,A392R56,AntivirusSoftware09,Antivirus Software,150
+699,A392R56,AntivirusSoftwareP9,Antivirus Software,630
+700,M4Y8765,MultimediaSoftwareA8,Multimedia Software,220
+701,DR28405,DatabaseSoftware09,Database Software,180
+702,DR28405,DatabaseSoftwareT5,Database Software,720
+703,DR28405,DatabaseSoftwareO6,Database Software,450
+704,S6I1543,SoftwareEncryption06,Software Encryption,850
+705,S6I1543,SoftwareEncryption15,Software Encryption,690
+706,S6I1543,SoftwareEncryptionY3,Software Encryption,340
+707,S6I1543,SoftwareEncryptionI2,Software Encryption,320
+708,S6I1543,SoftwareEncryptionP5,Software Encryption,600
+709,TI26891,TeachingSoftwareO3,Teaching Software,90
+710,TI26891,TeachingSoftware73,Teaching Software,210
+711,TT21465,TranslationSoftware97,Translation Software,290
+712,TT21465,TranslationSoftware03,Translation Software,560
+713,TT21465,TranslationSoftware40,Translation Software,680
+714,TT21465,TranslationSoftwareU0,Translation Software,880
+715,C367T20,CommunicationSoftware13,Communication Software,350
+716,C367T20,CommunicationSoftware60,Communication Software,560
+717,C367T20,CommunicationSoftware34,Communication Software,850
+718,D93P178,DevelopSoftware23,Develop Software,400
+719,N2364L9,NetworkManagementAndBackupSoftwarevirtualizationSoftware51,Network Management And Backup Softwarevirtualization Software,100
+720,SR61908,SaasSoftwareE0,Saas Software,300
+721,SR61908,SaasSoftwareY1,Saas Software,670
+722,SR61908,SaasSoftware94,Saas Software,640
+723,SR61908,SaasSoftwareK7,Saas Software,970
+724,SR61908,SaasSoftwareZ5,Saas Software,330
+725,M48J309,MailServerSoftware74,Mail Server Software,770
+726,R2I4560,RealEstateL1,Real Estate,100
+727,R2I4560,RealEstateW0,Real Estate,70
+728,HI14706,HotelEntertainment81,Hotel Entertainment,560
+729,HI14706,HotelEntertainment63,Hotel Entertainment,90
+730,HI14706,HotelEntertainmentV4,Hotel Entertainment,510
+731,CS90168,CustomerManagementSoftwareCrm36,Customer Management Software Crm,650
+732,CS90168,CustomerManagementSoftwareCrmW1,Customer Management Software Crm,230
+733,CS90168,CustomerManagementSoftwareCrm50,Customer Management Software Crm,760
+734,CS90168,CustomerManagementSoftwareCrm49,Customer Management Software Crm,210
+735,S0912X5,ServerR5,Server,950
+736,S0912X5,ServerO3,Server,920
+737,S0912X5,Server43,Server,300
+738,S0912X5,Server40,Server,220
+739,S7843Q5,ServerMemory84,Server Memory,770
+740,S7843Q5,ServerMemoryA4,Server Memory,220
+741,S2501J4,ServerHardDriveJ1,Server Hard Drive,110
+742,S2501J4,ServerHardDrive65,Server Hard Drive,920
+743,S2501J4,ServerHardDrive17,Server Hard Drive,570
+744,S2501J4,ServerHardDriveB3,Server Hard Drive,110
+745,S40897X,ServerMotherboard86,Server Motherboard,930
+746,S40897X,ServerMotherboardQ7,Server Motherboard,630
+747,S40897X,ServerMotherboardY0,Server Motherboard,580
+748,SE17564,ServerBarebonesT3,Server Barebones,270
+749,SE17564,ServerBarebones96,Server Barebones,430
+750,SE17564,ServerBarebonesM0,Server Barebones,790
+751,SE17564,ServerBarebonesH4,Server Barebones,410
+752,S92348F,ServerAccessories38,Server Accessories,530
+753,S92348F,ServerAccessoriesO3,Server Accessories,70
+754,S92348F,ServerAccessories10,Server Accessories,50
+755,S92348F,ServerAccessoriesC2,Server Accessories,480
+756,S7Z8134,ServerChassis71,Server Chassis,180
+757,S7Z8134,ServerChassis79,Server Chassis,70
+758,S7Z8134,ServerChassisH9,Server Chassis,490
+759,S5291W4,ServerPowerH6,Server Power,870
+760,S5291W4,ServerPower40,Server Power,450
+761,S5291W4,ServerPowerO3,Server Power,810
+762,S5291W4,ServerPower76,Server Power,710
+763,S5291W4,ServerPowerV7,Server Power,430
+764,W49310P,WirelessNetworkCardN4,Wireless Network Card,380
+765,W49310P,WirelessNetworkCardL1,Wireless Network Card,610
+766,W49310P,WirelessNetworkCardK0,Wireless Network Card,260
+767,W49310P,WirelessNetworkCardX4,Wireless Network Card,350
+768,W52V643,WirelessNetworkCard58,Wireless Network Card,1000
+769,W52V643,WirelessNetworkCardD4,Wireless Network Card,660
+770,WJ50817,WirelessAccessPointY0,Wireless Access Point,10
+771,WJ50817,WirelessAccessPointZ1,Wireless Access Point,580
+772,WJ50817,WirelessAccessPointR1,Wireless Access Point,650
+773,WJ50817,WirelessAccessPoint23,Wireless Access Point,370
+774,WM85971,WirelessRouter47,Wireless Router,570
+775,AU79605,AntennaSystem39,Antenna System,470
+776,P56U187,PowerAmplifier15,Power Amplifier,720
+777,P56U187,PowerAmplifierJ9,Power Amplifier,380
+778,P56U187,PowerAmplifierA3,Power Amplifier,280
+779,W920W86,WirelessSecurity90,Wireless Security,400
+780,W920W86,WirelessSecurityS4,Wireless Security,190
+781,N89L425,NetworkCardZ5,Network Card,920
+782,N89L425,NetworkCardC7,Network Card,930
+783,N89L425,NetworkCardG1,Network Card,60
+784,S3R8754,Switch59,Switch,180
+785,R5F0782,RouterB5,Router,150
+786,R5F0782,RouterX4,Router,920
+787,R5F0782,Router92,Router,420
+788,R5F0782,Router48,Router,1000
+789,P9L0284,Program-ControlledSwitchS2,Program-Controlled Switch,700
+790,P9L0284,Program-ControlledSwitchB0,Program-Controlled Switch,410
+791,P9L0284,Program-ControlledSwitchZ8,Program-Controlled Switch,530
+792,P9L0284,Program-ControlledSwitchS6,Program-Controlled Switch,610
+793,P9L0284,Program-ControlledSwitchD8,Program-Controlled Switch,750
+794,R54810N,RepeaterB1,Repeater,650
+795,R54810N,Repeater97,Repeater,140
+796,R54810N,Repeater18,Repeater,990
+797,M859T76,ModularInterfaceCardHub96,Modular Interface Card Hub,80
+798,M859T76,ModularInterfaceCardHub47,Modular Interface Card Hub,700
+799,T0E9518,TesterO7,Tester,320
+800,T0E9518,Tester74,Tester,550
+801,T0E9518,Tester04,Tester,550
+802,L85R920,LoadBalancingY3,Load Balancing,90
+803,L85R920,LoadBalancingK8,Load Balancing,20
+804,L85R920,LoadBalancing61,Load Balancing,190
+805,L85R920,LoadBalancingY7,Load Balancing,140
+806,L85R920,LoadBalancingD6,Load Balancing,450
+807,T9508D4,TrafficManagementF4,Traffic Management,480
+808,T9508D4,TrafficManagement93,Traffic Management,50
+809,T9508D4,TrafficManagementN0,Traffic Management,620
+810,C2056I7,Cabinet07,Cabinet,60
+811,C2056I7,CabinetS3,Cabinet,650
+812,C2056I7,CabinetZ3,Cabinet,370
+813,C2056I7,Cabinet97,Cabinet,370
+814,C2056I7,CabinetZ4,Cabinet,510
+815,C04R672,ConverterR3,Converter,790
+816,C04R672,Converter21,Converter,440
+817,C04R672,ConverterE1,Converter,400
+818,T1749L0,TransceiverU0,Transceiver,770
+819,S2180L4,SerialCommunicationServerP5,Serial Communication Server,800
+820,S2180L4,SerialCommunicationServerE9,Serial Communication Server,150
+821,S2180L4,SerialCommunicationServer64,Serial Communication Server,460
+822,S2180L4,SerialCommunicationServer74,Serial Communication Server,980
+823,S2180L4,SerialCommunicationServerN8,Serial Communication Server,180
+824,I072X68,IndustrialNetworkSwitchR2,Industrial Network Switch,320
+825,I072X68,IndustrialNetworkSwitchA7,Industrial Network Switch,550
+826,I357B21,InternetBehaviorManagement96,Internet Behavior Management,950
+827,I357B21,InternetBehaviorManagementG2,Internet Behavior Management,250
+828,FC40169,FunctionServerO8,Function Server,440
+829,FC40169,FunctionServerE7,Function Server,720
+830,BP82450,BillingSystemC5,Billing System,860
+831,BP82450,BillingSystemI2,Billing System,660
+832,BP82450,BillingSystem06,Billing System,370
+833,PI37560,PowerLineCommunicationEquipment94,Power Line Communication Equipment,320
+834,PI37560,PowerLineCommunicationEquipmentZ2,Power Line Communication Equipment,640
+835,MM72065,Multiplexer89,Multiplexer,1000
+836,MM72065,MultiplexerL4,Multiplexer,940
+837,MM72065,MultiplexerL3,Multiplexer,700
+838,F4K6753,FirewallX5,Firewall,590
+839,A08264O,AntivirusAndEmailFiltering05,Antivirus And Email Filtering,870
+840,A08264O,AntivirusAndEmailFiltering47,Antivirus And Email Filtering,220
+841,A08264O,AntivirusAndEmailFilteringE7,Antivirus And Email Filtering,980
+842,A08264O,AntivirusAndEmailFiltering70,Antivirus And Email Filtering,880
+843,A08264O,AntivirusAndEmailFiltering80,Antivirus And Email Filtering,920
+844,P41857Y,PhysicalSecurityIsolationN5,Physical Security Isolation,260
+845,P41857Y,PhysicalSecurityIsolation71,Physical Security Isolation,620
+846,P41857Y,PhysicalSecurityIsolation35,Physical Security Isolation,990
+847,P41857Y,PhysicalSecurityIsolationD9,Physical Security Isolation,120
+848,IZ80719,IntranetSecurityNetworkVulnerabilityScanningP0,Intranet Security Network Vulnerability Scanning,160
+849,AE91287,ApplicationSupervision29,Application Supervision,890
+850,T739U65,TapeDrivesH2,Tape Drives,840
+851,T739U65,TapeDrives59,Tape Drives,500
+852,T739U65,TapeDrivesG3,Tape Drives,370
+853,C95F078,CasetteLibraryJ4,Casette Library,990
+854,C95F078,CasetteLibraryT2,Casette Library,430
+855,C95F078,CasetteLibrary26,Casette Library,920
+856,C95F078,CasetteLibraryI1,Casette Library,460
+857,C95F078,CasetteLibraryD5,Casette Library,520
+858,D7903R1,DiskArray34,Disk Array,630
+859,D7903R1,DiskArray38,Disk Array,60
+860,D7903R1,DiskArray57,Disk Array,380
+861,D7903R1,DiskArrayM7,Disk Array,990
+862,H18Z450,HardDiskExtractionBoxA4,Hard Disk Extraction Box,880
+863,H18Z450,HardDiskExtractionBox95,Hard Disk Extraction Box,410
+864,H18Z450,HardDiskExtractionBox93,Hard Disk Extraction Box,840
+865,N74Y235,NetworkExtenderA0,Network Extender,190
+866,N74Y235,NetworkExtenderL1,Network Extender,830
+867,N74Y235,NetworkExtenderB5,Network Extender,510
+868,T5382D6,TapeS1,Tape,680
+869,T5382D6,Tape53,Tape,370
+870,I53862I,IntegratedWiringZ2,Integrated Wiring,30
+871,C97014N,CableJ6,Cable,960
+872,TS64823,TwistedPairW0,Twisted Pair,530
+873,TS64823,TwistedPair02,Twisted Pair,410
+874,TS64823,TwistedPairU0,Twisted Pair,830
+875,FG91426,FiberEquipmentB0,Fiber Equipment,70
+876,FG91426,FiberEquipmentH6,Fiber Equipment,190
+877,FG91426,FiberEquipmentF2,Fiber Equipment,310
+878,FG91426,FiberEquipmentC4,Fiber Equipment,160
+879,FG91426,FiberEquipment38,Fiber Equipment,310
+880,F40365I,FiberOpticCableT6,Fiber Optic Cable,740
+881,F40365I,FiberOpticCable39,Fiber Optic Cable,910
+882,F40365I,FiberOpticCableI3,Fiber Optic Cable,240
+883,L47869Q,LightningProtectionProductsD6,Lightning Protection Products,520
+884,L47869Q,LightningProtectionProducts26,Lightning Protection Products,30
+885,L47869Q,LightningProtectionProductsE4,Lightning Protection Products,730
+886,L47869Q,LightningProtectionProductsK9,Lightning Protection Products,760
+887,L47869Q,LightningProtectionProductsV0,Lightning Protection Products,820
+888,P3650F7,PrecisionAirConditionerK9,Precision Air Conditioner,180
+889,P3650F7,PrecisionAirConditionerI6,Precision Air Conditioner,340
+890,P3650F7,PrecisionAirConditionerK4,Precision Air Conditioner,780
+891,P3650F7,PrecisionAirConditioner90,Precision Air Conditioner,350
+892,P3650F7,PrecisionAirConditionerG9,Precision Air Conditioner,940
+893,S86042Z,SecurityCameraY2,Security Camera,400
+894,S86042Z,SecurityCameraS5,Security Camera,160
+895,S86042Z,SecurityCamera42,Security Camera,220
+896,S86042Z,SecurityCamera25,Security Camera,650
+897,D56294N,DvrL0,Dvr,210
+898,D56294N,DvrE9,Dvr,100
+899,V0W6342,VideoServerD1,Video Server,880
+900,V0W6342,VideoServer94,Video Server,560
+901,V0W6342,VideoServerY0,Video Server,830
+902,V0W6342,VideoServer62,Video Server,420
+903,V0W6342,VideoServerX4,Video Server,1000
+904,SK73928,SurveillanceCaptureCardO3,Surveillance Capture Card,240
+905,SK73928,SurveillanceCaptureCardD5,Surveillance Capture Card,640
+906,SK73928,SurveillanceCaptureCard79,Surveillance Capture Card,550
+907,OP18549,OpticalTransceiver76,Optical Transceiver,720
+908,OP18549,OpticalTransceiver15,Optical Transceiver,420
+909,OP18549,OpticalTransceiver40,Optical Transceiver,370
+910,OP18549,OpticalTransceiver46,Optical Transceiver,990
+911,M85D039,MonitorO3,Monitor,380
+912,M85D039,Monitor75,Monitor,850
+913,M85D039,MonitorH7,Monitor,10
+914,S7K6834,ScreenSplitterA3,Screen Splitter,190
+915,S7K6834,ScreenSplitterX5,Screen Splitter,330
+916,S7K6834,ScreenSplitterN4,Screen Splitter,340
+917,S7K6834,ScreenSplitter58,Screen Splitter,950
+918,S7K6834,ScreenSplitterB7,Screen Splitter,580
+919,V0147T3,VideoDistributorZ5,Video Distributor,1000
+920,V0147T3,VideoDistributorR8,Video Distributor,50
+921,C45R631,Codec76,Codec,820
+922,C45R631,CodecH2,Codec,920
+923,C45R631,Codec97,Codec,650
+924,C2B7139,CentralControlSystem74,Central Control System,630
+925,C2B7139,CentralControlSystemU8,Central Control System,470
+926,C2B7139,CentralControlSystemO7,Central Control System,650
+927,T1R9247,TvWallQ1,Tv Wall,520
+928,T1R9247,TvWall19,Tv Wall,350
+929,C2698S3,ConsoleA3,Console,690
+930,C2698S3,Console71,Console,210
+931,S15H647,SurveillanceAroundN5,Surveillance Around,150
+932,A4A8763,AttendanceMachine76,Attendance Machine,390
+933,A4A8763,AttendanceMachineW1,Attendance Machine,720
+934,A4A8763,AttendanceMachine24,Attendance Machine,600
+935,A58192Z,AccessControlMachineA8,Access Control Machine,980
+936,A58192Z,AccessControlMachineY2,Access Control Machine,510
+937,A58192Z,AccessControlMachine78,Access Control Machine,580
+938,A58192Z,AccessControlMachineK1,Access Control Machine,320
+939,T7E2913,TollMachineH9,Toll Machine,880
+940,T7E2913,TollMachineJ1,Toll Machine,90
+941,T7E2913,TollMachineU6,Toll Machine,20
+942,T7E2913,TollMachine89,Toll Machine,150
+943,T7E2913,TollMachine62,Toll Machine,280
+944,A094G67,AccessController53,Access Controller,660
+945,A4158M9,AccessControlSystem78,Access Control System,840
+946,B239N58,BuildingIntercom75,Building Intercom,710
+947,B239N58,BuildingIntercom04,Building Intercom,900
+948,B239N58,BuildingIntercomO1,Building Intercom,770
+949,B239N58,BuildingIntercom95,Building Intercom,910
+950,A37260X,Anti-TheftAlarmHostW0,Anti-Theft Alarm Host,680
+951,A37260X,Anti-TheftAlarmHost50,Anti-Theft Alarm Host,500
+952,A37260X,Anti-TheftAlarmHost23,Anti-Theft Alarm Host,220
+953,A37260X,Anti-TheftAlarmHostN4,Anti-Theft Alarm Host,880
+954,A37260X,Anti-TheftAlarmHost87,Anti-Theft Alarm Host,140
+955,IY01329,InductionDetector38,Induction Detector,480
+956,I36Z941,ImageAlarmA1,Image Alarm,410
+957,I36Z941,ImageAlarmM3,Image Alarm,310
+958,I36Z941,ImageAlarm30,Image Alarm,150
+959,I36Z941,ImageAlarm54,Image Alarm,310
+960,I36Z941,ImageAlarm41,Image Alarm,160
+961,ER04531,ElectricFencF6,Electric Fenc,270

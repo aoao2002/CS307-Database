@@ -1,0 +1,201 @@
+id,supply_center,product_model,supply_staff,date,purchase_price,quantity
+1,Asia,Repeater97,11210906,2008/10/27,430,801
+2,Southwestern China,ElectricToothbrush21,11811720,2008/11/5,532,66
+3,Southwestern China,LaminatingMachineY9,11112718,2008/11/27,839,309
+4,Asia,AidedDesignV1,11210906,2008/8/9,440,247
+5,"Hong Kong, Macao and Taiwan regions of China",TollMachine89,11210906,2008/6/17,482,579
+6,Northern China,CustomerManagementSoftwareCrm49,11711115,2008/6/23,259,993
+7,Southern China,SaasSoftware94,11112809,2008/7/25,689,555
+8,"Hong Kong, Macao and Taiwan regions of China",LightningProtectionProducts26,11810528,2008/11/21,498,587
+9,Southern China,ServerAccessoriesO3,11111727,2008/9/22,703,914
+10,Southern China,ImageAlarm30,12212302,2008/3/28,468,900
+11,"Hong Kong, Macao and Taiwan regions of China",IsbnPrinterA3,11710200,2008/6/14,338,133
+12,Northern China,Router92,11411014,2008/1/24,511,237
+13,America,MicrophoneDigitalCompanionF7,11911118,2008/10/15,847,529
+14,Europe,ImageAlarm54,12211106,2008/6/6,974,521
+15,Northern China,ElectricIronD7,11710828,2008/4/28,824,714
+16,Northern China,DvrL0,11510129,2008/11/9,679,648
+17,"Hong Kong, Macao and Taiwan regions of China",HumidifierY1,11612910,2008/3/16,81,510
+18,"Hong Kong, Macao and Taiwan regions of China",Ssd73,11712202,2008/7/15,905,14
+19,Southern China,ServerMemoryA4,11712202,2008/12/2,197,887
+20,Southern China,Server40,12010909,2008/9/6,973,136
+21,Europe,ToiletSeatC2,11611227,2008/6/18,694,156
+22,Asia,GameChargerA5,11212823,2008/3/27,104,422
+23,"Hong Kong, Macao and Taiwan regions of China",DisplayChipB4,11311902,2008/3/26,392,443
+24,Europe,PhotoBox56,11111727,2008/2/18,820,148
+25,Northern China,ElectronicDictionaryG3,11211721,2008/12/7,348,941
+26,Southwestern China,MonitorO3,12111906,2008/5/22,195,669
+27,Southwestern China,Gps07,11410208,2008/8/1,66,679
+28,America,CameraFilmO0,11111727,2008/5/10,675,935
+29,Eastern China,TollMachineJ1,12012421,2008/2/20,753,74
+30,Europe,LaptopDockingStationQ9,11910019,2008/8/16,918,387
+31,Southwestern China,AccessControlSystem78,12211403,2008/12/24,467,875
+32,Northern China,ServerBarebones96,12211403,2008/8/14,867,553
+33,"Hong Kong, Macao and Taiwan regions of China",UpsPowerShredderJ5,12211403,2008/10/22,145,961
+34,Southern China,Program-ControlledSwitchB0,12010417,2008/4/18,269,405
+35,Southern China,ImageSoftwareTypesettingSoftware28,12010417,2008/7/15,801,125
+36,Southern China,Digitizer29,12212423,2008/1/6,391,231
+37,Eastern China,RangeHoodI8,11210622,2008/12/16,496,940
+38,Asia,PowerSupply63,11312106,2008/8/21,899,191
+39,"Hong Kong, Macao and Taiwan regions of China",LoadBalancingK8,11811124,2008/9/23,627,653
+40,Southern China,Anti-SlipMobilePhone15,11211615,2008/12/6,794,771
+41,Southern China,FlashCard95,11111727,2008/8/16,311,498
+42,Northern China,OpticalTransceiver76,11411014,2008/11/11,727,126
+43,America,VideoCaptureCard60,12011924,2008/2/15,958,784
+44,Southern China,HeatSink24,11111727,2008/8/14,49,575
+45,Europe,Hand-HeldGamingDeviceR5,11812821,2008/6/7,480,397
+46,Europe,AttendanceMachineW1,11910019,2008/3/30,296,229
+47,Europe,ReadingMachineQ3,11210524,2008/11/6,926,33
+48,Southwestern China,FocusingScreenU7,11710805,2008/1/23,631,6
+49,Europe,WirelessAccessPointY0,12111027,2008/4/6,505,936
+50,Eastern China,UpsPowerShredderT7,11511710,2008/3/29,570,687
+51,"Hong Kong, Macao and Taiwan regions of China",MassagerU3,11710319,2008/9/13,813,135
+52,"Hong Kong, Macao and Taiwan regions of China",GpsE3,11710106,2008/7/26,218,766
+53,Asia,DesktopPc48,12110020,2008/9/17,79,552
+54,Northern China,HardDiskExtractionBox95,11711115,2008/2/19,439,136
+55,Southern China,TripodF5,11911223,2008/11/22,765,520
+56,America,TonerCartridgeH6,12210416,2008/10/4,609,667
+57,Southwestern China,TeachingSoftware73,11812407,2008/2/24,167,223
+58,Southwestern China,ExhaustFanD8,11310305,2008/4/4,98,569
+59,Europe,GameConsoleMemory17,11310305,2008/7/25,868,139
+60,"Hong Kong, Macao and Taiwan regions of China",Anti-SlipMobilePhone26,11112606,2008/11/13,951,844
+61,Eastern China,DigitalFrame48,11612806,2008/5/16,695,83
+62,"Hong Kong, Macao and Taiwan regions of China",ServerHardDrive17,12212407,2008/6/30,940,269
+63,Southern China,HomeTheater30,12111613,2008/6/10,844,363
+64,Europe,GasWaterHeaterN7,11511625,2008/9/2,955,885
+65,Europe,Tablet82,11612023,2008/4/10,802,749
+66,America,DvrE9,11110325,2008/11/15,507,574
+67,Europe,ElectricKettleR3,11611903,2008/3/14,578,346
+68,Europe,LightningProtectionProducts26,11511625,2008/1/18,658,776
+69,"Hong Kong, Macao and Taiwan regions of China",PrintMedia70,11112606,2008/11/30,404,192
+70,"Hong Kong, Macao and Taiwan regions of China",HandwritingInputE9,11211915,2008/10/11,565,693
+71,Southwestern China,GameChargerZ3,11211915,2008/7/8,256,868
+72,Europe,Cd95,11411412,2008/1/29,160,681
+73,Southwestern China,ConverterE1,11310305,2008/4/15,208,802
+74,Northern China,Air-ConditioningFan51,11911015,2008/6/26,135,281
+75,Europe,Tripod50,11911015,2008/1/10,425,627
+76,Asia,ConverterE1,11512212,2008/3/8,908,76
+77,"Hong Kong, Macao and Taiwan regions of China",WaterDispenserO9,11112606,2008/5/9,811,854
+78,Europe,FlatFilmT9,11412615,2008/3/14,84,492
+79,Northern China,SoundCard93,11412615,2008/2/22,440,220
+80,Asia,ScreenSplitterB7,11710328,2008/2/14,379,355
+81,Southern China,GameConsoleFilmN2,11612422,2008/3/28,162,607
+82,America,RepeaterV9,11310827,2008/4/6,532,768
+83,Europe,FiberOpticCableT6,11210524,2008/6/3,130,765
+84,Eastern China,LaminatorMoDriveP4,11512206,2008/10/3,586,526
+85,Southern China,E-BookF8,12010417,2008/10/11,664,817
+86,Southwestern China,LargeFormatPrinterD9,11511720,2008/4/30,636,809
+87,America,DigitizerX4,12111022,2008/1/7,541,660
+88,Northern China,OfficeSoftwareD7,11710828,2008/10/31,929,502
+89,Eastern China,RangeHoodO1,11710828,2008/12/1,933,657
+90,America,ElectricIron24,12110806,2008/11/20,952,131
+91,Southern China,ServerBarebones96,11612422,2008/4/2,810,357
+92,Northern China,Anti-SlipMobilePhoneP4,11810110,2008/4/17,512,234
+93,Eastern China,Monitor75,11810110,2008/7/21,935,98
+94,Europe,E-Book87,11412311,2008/4/19,13,786
+95,Europe,ServerBarebonesM0,12111027,2008/6/6,422,512
+96,Northern China,ComputerRemoteControlG0,11312409,2008/8/31,804,946
+97,Europe,RouterX4,12111027,2008/4/10,180,36
+98,Europe,E-Book87,11411412,2008/8/12,378,52
+99,Southwestern China,SoundCardE9,11611019,2008/3/22,630,311
+100,"Hong Kong, Macao and Taiwan regions of China",FlashCard95,11710319,2008/11/4,78,61
+101,Southern China,DigitalCamera85,12111125,2008/12/29,96,312
+102,America,Scanner21,11512800,2008/3/7,541,72
+103,America,Codec76,12210311,2008/7/20,783,336
+104,"Hong Kong, Macao and Taiwan regions of China",GameConsoleFilmN2,11411608,2008/11/28,417,83
+105,America,AirConditioner27,12210416,2008/7/10,94,176
+106,Europe,ComputerFingerprintEncryptionLock83,11210524,2008/3/30,581,226
+107,Eastern China,OpticalTransceiver15,11611609,2008/3/18,712,960
+108,Asia,ClusterH8,11612315,2008/4/25,720,968
+109,Southwestern China,NotebookAccessories20,11811307,2008/10/8,943,906
+110,Southwestern China,SoyMilkMachine50,12210612,2008/6/22,569,419
+111,America,CellphoneDataLine26,12110806,2008/2/26,95,117
+112,Eastern Chinaa,ElectricFanS3,11711304,2008/12/31,768,17
+113,America,CardReaderL3,12111022,2008/2/13,695,762
+114,Southwestern Chinaa,HairDryerX7,11511720,2008/3/23,131,870
+115,Asia,CdPrintRecorderL8,11512100,2008/1/14,918,510
+116,Europe,Cpu60,11711728,2008/8/9,76,801
+117,"Hong Kong, Macao and Taiwan regions of China",OfficeSoftwareD7,11810528,2008/2/24,523,55
+118,Southwestern China,FlashCard87,11910910,2008/7/1,922,393
+119,Southern China,Freezer85,12212302,2008/8/30,800,75
+120,Northern China,Yuba48,11711516,2008/10/4,113,490
+121,Eastern China,Mouse12,11711304,2008/1/15,205,312
+122,Eastern China,SoundCardE9,11811901,2008/3/19,949,993
+123,America,LensD7,11410600,2008/4/10,851,108
+124,Southwestern China,Dishwasher20,11310305,2008/11/1,11,937
+125,Southwestern China,GameJoystick05,11411810,2008/2/21,658,379
+126,Southern Chinaa,Cd-RomBox87,11610326,2008/4/30,266,55
+127,Asia,LinePrinterX7,11110916,2008/6/19,479,578
+128,America,GameChargerK2,12210416,2008/7/25,150,324
+129,Europee,CustomerManagementSoftwareCrm50,11812006,2008/1/24,642,909
+130,Northern China,PowerAmplifierJ9,11411014,2008/4/24,595,210
+131,Europe,TollMachine89,11611903,2008/2/8,37,303
+132,Southwestern China,RepeaterB1,11511720,2008/8/2,959,637
+133,Southern China,Hood15,11610326,2008/5/9,173,21
+134,Asia,AntennaSystem39,11811514,2008/10/4,594,111
+135,Europe,CasetteLibraryI1,11611227,2008/1/25,791,729
+136,"Hong Kong, Macao and Taiwan regions of Chinan",Tester04,11511728,2008/2/20,124,510
+137,Southern China,LightningProtectionProducts26,12011319,2008/1/11,36,673
+138,Eastern China,LaptopDisplayF0,11511710,2008/6/3,923,449
+139,Europe,GameConsoleBatteryB1,11411412,2008/4/23,664,326
+140,America,SoftwareEncryption15,11310324,2008/3/3,296,498
+141,"Hong Kong, Macao and Taiwan regions of China",InkjetPrintersS4,12212407,2008/8/6,595,676
+142,Southern China,MobilePhoneCompanionI6,12110927,2008/7/9,183,131
+143,"Hong Kong, Macao and Taiwan regions of China",Barebones71,11711609,2008/12/21,510,245
+144,Europe,CellPhoneBattery21,12111228,2008/1/19,976,846
+145,Southwestern China,ElectricHeater39,11110410,2008/12/28,2,321
+146,Southwestern China,LcdTvG1,11411810,2008/4/25,174,46
+147,Southwestern China,AaaA1,12210612,2008/7/7,916,873
+148,Europe,ChargerD9,11910019,2008/5/12,18,765
+149,Northern China,SoftwareEncryption15,11211721,2008/5/26,568,936
+150,Northern China,ComputerTerminal43,11111028,2008/4/24,899,889
+151,Asia,WirelessRouter47,11812801,2008/8/13,716,851
+152,"Hong Kong, Macao and Taiwan regions of China",NotebookCase03,11711609,2008/12/1,272,529
+153,Europe,ImageAlarm30,11412311,2008/11/18,180,458
+154,Europe,LaptopDesk43,11512607,2008/10/7,642,716
+155,"Hong Kong, Macao and Taiwan regions of China",BbbB1,12212407,2008/2/4,486,782
+156,America,InternetBehaviorManagement96,11110325,2008/10/1,630,44
+157,Europe,CardReaderQ9,11910019,2008/7/13,384,559
+158,Asia,Air-ConditioningFan21,11512212,2008/12/5,763,62
+159,Eastern China,Router92,11511710,2008/11/30,10,980
+160,"Hong Kong, Macao and Taiwan regions of China",Anti-SlipMobilePhone15,12010902,2008/7/30,410,935
+161,Asia,CccC1,11811514,2008/3/20,272,705
+162,Northern China,NotebookAccessoriesA7,11812423,2008/6/28,724,500
+163,Southern China,WirelessSecurityS4,11911223,2008/4/20,489,950
+164,Europe,DddD1,11410529,2008/9/12,350,462
+165,Southwestern China,Ribbon17,11112718,2008/2/4,991,151
+166,Europe,CasetteLibraryD5,11611903,2008/10/27,434,76
+167,Northern China,EeeE1,11312521,2008/8/27,414,632
+168,Europe,HeatSink95,11611227,2008/7/15,612,193
+169,Northern China,GameChargerZ3,11711115,2008/8/5,181,122
+170,Europe,CameraBagX6,12111228,2008/6/28,784,300
+171,Europe,LaserPrinterC5,11111111,2008/12/11,538,699
+172,Southwestern China,DehumidifierK8,11610322,2008/12/10,970,91
+173,Eastern China,MobilePhoneBaseX8,11310409,2008/3/31,415,997
+174,Europe,DisplayChipB4,11412311,2008/7/1,181,383
+175,Southern China,GameChargerN0,11610326,2008/9/16,200,853
+176,Europe,PrecisionAirConditionerG9,11412615,2008/12/28,43,694
+177,Eastern China,VideoServer94,11912623,2008/7/4,531,613
+178,Asia,DigitizerX4,12112420,2008/6/9,401,917
+179,Southwestern China,MobilePhoneChargerD7,11111111,2008/10/24,636,325
+180,Southern China,CasetteLibraryT2,11610326,2008/5/18,453,192
+181,Eastern China,ServerBarebonesT3,11210622,2008/10/6,787,202
+182,Southern China,ServerR5,12010909,2008/8/25,524,103
+183,Southern China,UDiskY8,12010417,2008/7/8,417,354
+184,Europe,BuildingIntercom75,11411412,2008/4/22,591,304
+185,Southern China,RadioYogurtMaker92,11111111,2008/10/6,395,894
+186,Southwestern China,Toner79,12211403,2008/7/7,539,648
+187,Europe,PrecisionAirConditionerG9,12111922,2008/5/30,576,861
+188,Southwestern China,WaterHeater71,11811720,2008/10/12,135,658
+189,Asia,MobilePowerV4,11812801,2008/7/1,285,171
+190,"Hong Kong, Macao and Taiwan regions of China",AttendanceMachine76,11111111,2008/9/8,105,639
+191,America,AdapterRing49,12210311,2008/4/11,429,611
+192,"Hong Kong, Macao and Taiwan regions of China",HeatSink95,11711609,2008/2/28,576,843
+193,America,ReadingMachineQ3,12110806,2008/9/9,524,935
+194,Asia,TelephoneH7,11612315,2008/5/29,844,849
+195,"Hong Kong, Macao and Taiwan regions of China",SecurityCameraY2,11311902,2008/12/9,661,235
+196,Southern China,CarEquipmentS3,11111111,2008/1/23,986,626
+197,"Hong Kong, Macao and Taiwan regions of China",FaxMachineCopierD4,11811124,2008/11/24,375,39
+198,"Hong Kong, Macao and Taiwan regions of China",WaterHeater71,12210904,2008/1/4,301,405
+199,Eastern China,BluetoothAdapter64,11210026,2008/9/2,382,510
+200,Asia,ServerPowerV7,12011011,2008/10/31,822,755

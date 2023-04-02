@@ -1,0 +1,43 @@
+Q6 
+Director                 8
+Contracts Manager        160
+Salesman                 640
+Supply Staff             192
+Q7 84
+Q8 196
+Q9 57
+Q10 
+ConverterE1           5
+ServerBarebones96     5
+FlashCard95           5
+OfficeSoftwareD7      5
+TollMachine89         5
+Q11 
+America                                         9.4
+Asia                                            8.7
+Eastern China                                   9.4
+Europe                                          18.1
+Hong Kong, Macao and Taiwan regions of China    12.8
+Northern China                                  10.0
+Southern China                                  14.4
+Southwestern China                              12.6
+Q12 
+supply_center               product_model               purchase_price      quantity            
+Northern China              Air-ConditioningFan51       135                 281                 
+Asia                        Air-ConditioningFan21       763                 62                  
+Q13 
+number: CSE0000219
+manager: Bonny Robinson
+enterprise: Taiwan Semiconductor Manufacturing Company
+supply_center: Hong Kong, Macao and Taiwan regions of China
+product_model               salesman            quantity  unit_price  estimate_delivery_date      lodgement_date              
+OfficeSoftwareD7            Libby Patel              1         170         2022-02-24                  2022-02-24                  
+DisplayChipB4               Della Johnson            1         270         2022-02-24                  2022-02-24                  
+TollMachine89               Zou Huasheng             1         150         2022-02-24                  2022-02-24                  
+Q13 
+number: CSE0000103
+manager: Cao Zicheng
+enterprise: Bilibili
+supply_center: Eastern China
+product_model               salesman            quantity  unit_price  estimate_delivery_date      lodgement_date              
+RangeHoodO1                 Jiang Yingzhi            1         810         2022-01-08                  2022-01-08                  

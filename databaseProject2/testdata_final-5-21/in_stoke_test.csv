@@ -1,0 +1,401 @@
+id,supply_center,product_model,supply_staff,date,purchase_price,quantity
+1,America,LinePrinterX7,11912507,2010/10/16,926,626
+2,America,FocusingScreenU7,11412326,2018/5/13,801,123
+3,America,CentralWaterHeaterV6,12212302,2019/4/22,340,411
+4,America,LoadBalancingY7,12210612,2019/1/20,827,328
+5,America,ImageAlarm54,11811720,2013/11/1,509,234
+6,America,HumidifierF6,11711609,2014/11/28,256,219
+7,America,SurveillanceAroundN5,11710328,2013/1/30,666,858
+8,America,SoyMilkMachineM1,11610700,2014/10/4,191,150
+9,America,LensCap93,11612910,2011/8/23,603,133
+10,America,HoodX9,11610326,2019/10/27,172,573
+11,America,GamePackL5,11212008,2012/6/13,179,786
+12,America,Anti-TheftAlarmHost87,11911120,2013/2/3,554,577
+13,America,BluetoothAdapterP2,11812407,2017/1/9,803,236
+14,America,BarcodeAndCardReadingEquipment20,11812006,2021/5/18,709,486
+15,America,ServerAccessoriesO3,11711516,2021/6/19,938,687
+16,America,RefrigeratorZ7,12010909,2015/6/14,300,521
+17,America,GpsE3,11811720,2010/6/3,239,436
+18,America,ToiletSeat05,11211620,2012/5/27,224,862
+19,America,ChassisZ1,11812319,2009/5/20,584,794
+20,America,Air-ConditioningFan38,12111613,2011/11/20,313,595
+21,Asia,PhysicalSecurityIsolation71,12112707,2015/1/4,574,784
+22,Northern China,ReceiptPrinter06,12112707,2017/12/31,805,709
+23,America,DigitalMobileTv84,12112707,2013/7/11,620,964
+24,Southwestern China,ImageSoftwareTypesettingSoftware28,12112707,2014/1/30,177,307
+25,Southern China,Gps21,12112707,2014/8/25,284,722
+26,Eastern China,SecurityCameraS5,12112707,2013/8/23,482,407
+27,Asia,DevelopSoftware23,12112707,2013/2/25,528,111
+28,Asia,DisplayChipB4,12112707,2017/1/3,651,255
+29,Eastern China,CasetteLibraryD5,12112707,2019/2/28,519,349
+30,Asia,ModularInterfaceCardHub96,12112707,2008/10/29,249,847
+31,Invalid Center,BuildingIntercomO1,11110916,2011/5/9,905,557
+32,Invalid Center,BillingSystemC5,11912507,2011/12/13,719,355
+33,Invalid Center,GameChargerN0,11511720,2009/12/19,149,448
+34,Invalid Center,HotPotI6,12011702,2017/12/29,809,498
+35,Invalid Center,HumidifierE8,11110325,2014/3/10,604,766
+36,Invalid Center,SolarWaterHeatersU5,11911223,2018/2/4,304,558
+37,Invalid Center,TonerCartridge96,11211721,2020/1/26,848,233
+38,Invalid Center,HoodX9,11711115,2020/7/21,175,755
+39,Invalid Center,PhotoBox94,11311902,2015/10/11,423,271
+40,Invalid Center,Anti-SlipMobilePhone15,11710900,2014/8/27,167,209
+41,"Hong Kong, Macao and Taiwan regions of China",InvalidProduct01,12010902,2016/12/24,775,312
+42,Europe,InvalidProduct01,11412326,2014/4/3,225,179
+43,Northern China,InvalidProduct01,11711115,2019/4/3,819,625
+44,Eastern China,InvalidProduct01,11612024,2013/12/11,960,245
+45,Southwestern China,InvalidProduct01,12211320,2017/9/22,691,683
+46,Eastern China,InvalidProduct01,11612909,2017/9/16,135,931
+47,Southern China,InvalidProduct01,11111715,2019/2/4,775,483
+48,Asia,InvalidProduct01,12110020,2020/7/29,990,614
+49,Asia,InvalidProduct01,12111620,2010/12/2,326,496
+50,America,InvalidProduct01,11512800,2019/8/3,239,758
+51,Eastern China,SaasSoftwareK7,11110000,2012/5/30,415,261
+52,America,Blu-RayPlayerD5,11110000,2019/10/26,582,936
+53,Europe,HotelEntertainment63,11110000,2008/2/22,610,475
+54,Northern China,ConnectingLine92,11110000,2010/3/12,172,162
+55,"Hong Kong, Macao and Taiwan regions of China",HotelEntertainment81,11110000,2010/11/23,878,369
+56,Southwestern China,TabletBase60,11110000,2012/2/2,996,866
+57,Eastern China,MobilePhone49,11110000,2021/5/24,964,798
+58,Southern China,ServerMotherboardY0,11110000,2015/12/22,722,736
+59,America,Pbx05,11110000,2009/7/25,661,339
+60,Northern China,CdPrintRecorder59,11110000,2020/5/29,483,215
+61,Northern China,LcdTvV7,11911609,2016/12/8,756,421
+62,Eastern China,VacuumCleaner90,11512206,2008/2/2,361,521
+63,"Hong Kong, Macao and Taiwan regions of China",DigitalMobileTv28,11311902,2011/3/15,849,955
+64,"Hong Kong, Macao and Taiwan regions of China",DigitizerX4,11212008,2019/1/13,843,229
+65,Asia,OtherAccessoriesQ9,11312106,2012/10/18,102,447
+66,Europe,VideoGameControllerZ5,11412615,2008/6/15,467,730
+67,America,ScreenSplitterA3,12012116,2013/7/17,204,898
+68,"Hong Kong, Macao and Taiwan regions of China",LcdTvG1,12210114,2013/5/17,919,415
+69,Europe,NetworkExtenderL1,11611812,2013/3/14,134,883
+70,America,HeatSink24,12110806,2017/5/26,487,762
+71,Southwestern China,Cabinet07,11411810,2017/7/9,640,830
+72,Northern China,Earphone27,11111624,2011/4/19,206,229
+73,Southern China,ElectricHeaterE3,12211003,2020/8/8,793,315
+74,Eastern China,DatabaseSoftwareO6,11911120,2019/8/20,841,134
+75,Europe,NotebookAccessoriesA6,11910019,2012/3/7,904,141
+76,Eastern China,FiberEquipmentC4,12012421,2016/3/29,115,298
+77,Asia,FootBathEyeProtectionLampG9,12010114,2011/1/8,860,150
+78,Asia,CardReaderL3,11210906,2014/4/19,666,967
+79,Europe,CarEquipment57,12111027,2013/8/11,516,601
+80,Southern China,LabelPrinterA6,12212423,2015/2/19,207,763
+81,Europe,DotMatrixPrinterV1,11611903,2016/5/8,243,571
+82,Asia,WirelessSecurity90,11512212,2016/6/10,178,888
+83,Eastern China,TapeDrives59,11510326,2013/4/3,948,905
+84,"Hong Kong, Macao and Taiwan regions of China",BindingMachine56,11710106,2013/7/23,685,402
+85,Asia,Gps07,11211517,2019/11/30,527,124
+86,Southern China,All-In-OnePrintingMachineW9,12211003,2020/9/9,547,683
+87,"Hong Kong, Macao and Taiwan regions of China",LoadBalancingK8,11711609,2017/11/4,783,835
+88,Southern China,ToiletSeatM4,12110927,2018/5/1,146,701
+89,Eastern China,WirelessRouter47,12211621,2011/12/25,965,196
+90,America,Server40,12111022,2018/8/9,671,265
+91,America,PrinterH8,11210921,2011/5/19,720,259
+92,America,ElectricBakingPan74,11810107,2011/10/17,847,266
+93,Southern China,OnlineTelephone15,11111715,2013/3/3,746,408
+94,Northern China,OfficeSoftwareS9,11312521,2011/9/9,178,169
+95,Eastern China,Multimedia39,11912623,2021/11/8,905,684
+96,Northern China,VideoServer62,11812728,2010/2/26,719,933
+97,Eastern China,HardDiskA7,11211016,2014/4/20,709,330
+98,America,Cd-Rom02,11210418,2020/12/15,865,658
+99,Asia,LensCapU7,11210906,2009/4/27,299,736
+100,Europe,SpeakerAccessories96,11612717,2009/9/5,927,644
+101,America,HomeTheater94,12012116,2009/1/28,135,957
+102,Southwestern China,GameLightGunGamePeripheral93,12111906,2015/9/11,422,601
+103,Asia,MonitorB2,11512100,2012/7/4,919,251
+104,Asia,CoffeeMachineK4,11512212,2020/7/5,354,961
+105,Southwestern China,ServerR5,11511720,2019/12/15,409,509
+106,Southern China,CashRegister62,11911223,2018/12/20,892,149
+107,Northern China,Dehumidifier97,11911804,2014/1/18,850,869
+108,Eastern China,TvHanger86,11911120,2019/12/17,161,190
+109,Southern China,GasWaterHeaterF4,11111715,2018/5/8,799,437
+110,Asia,TwistedPairU0,11210906,2010/4/17,943,638
+111,Asia,Anti-TheftAlarmHost50,11110916,2012/10/14,207,455
+112,America,SoftwareEncryption06,11410826,2008/5/27,902,324
+113,Eastern China,Scanner43,11210622,2010/8/31,874,903
+114,Europe,Program-ControlledSwitchZ8,11812006,2013/10/17,653,457
+115,Eastern China,NetworkExtenderA0,11510305,2013/3/25,482,737
+116,Southwestern China,VideoServer62,11310305,2009/1/12,427,784
+117,Northern China,ColdLaminatorV6,11911609,2013/1/29,698,899
+118,Southwestern China,SlrHandle74,11811720,2015/5/3,522,530
+119,Southern China,FlatFilm23,11210028,2013/8/5,633,327
+120,Northern China,WirelessAccessPointZ1,11510129,2010/4/12,781,845
+121,Europe,Cd-RomBox87,11611227,2009/1/9,576,938
+122,America,DyeSublimationPrinterY6,11210921,2010/12/31,163,720
+123,America,MoneyCounterA3,11110325,2018/2/10,967,766
+124,Asia,CentralWaterHeaterI0,11512100,2011/10/14,120,535
+125,Asia,Cpu60,12111620,2011/7/29,200,628
+126,Asia,DesktopPcP3,11212823,2018/11/15,595,183
+127,Eastern China,PrintMediaL2,11211620,2009/6/15,618,766
+128,Southern China,SecurityCamera25,11912507,2021/12/10,171,447
+129,Northern China,DesktopPcP3,11711516,2015/5/5,619,867
+130,Southern China,RouterX4,11911223,2011/11/28,848,703
+131,Southwestern China,DehumidifierG3,12210612,2021/1/31,990,227
+132,Southern China,GameConsoleBatteryB1,11112809,2021/8/10,847,199
+133,Southwestern China,SerialCommunicationServerE9,11811307,2014/2/28,272,657
+134,Southern China,ImageAlarm30,11612422,2011/10/22,164,592
+135,Northern China,GameConsoleFilmN3,11411014,2021/4/26,631,953
+136,Southern China,Anti-TheftAlarmHost23,12011319,2008/6/19,908,640
+137,Northern China,ClusterR4,11711516,2012/8/4,149,395
+138,Southern China,Router92,12212423,2008/10/6,860,407
+139,Europe,ScannerO9,11412326,2010/12/13,450,441
+140,Southern China,SolarWaterHeaters26,11112809,2012/2/26,689,552
+141,America,ColorManagementX0,12012116,2011/7/16,204,631
+142,Asia,ConverterE1,12112420,2009/1/20,556,284
+143,Southwestern China,Camera95,11510516,2018/7/15,292,530
+144,America,TranslationSoftware97,11110325,2016/5/20,954,838
+145,Southwestern China,Massager63,11812407,2015/4/27,596,388
+146,Southern China,Mp4Z2,12010909,2013/10/21,202,123
+147,Eastern China,WirelessSecurity90,11511710,2009/1/15,595,658
+148,Southwestern China,GasWaterHeaterB3,11311712,2011/4/8,979,727
+149,Eastern China,Monocular31,11612909,2017/8/27,464,808
+150,Eastern China,Server40,11211620,2017/3/15,778,557
+151,Northern China,PowerSupply63,11710828,2020/11/6,921,121
+152,Eastern China,CoffeeMachineL7,11611609,2011/2/28,784,783
+153,"Hong Kong, Macao and Taiwan regions of China",GasStoves79,12210114,2013/1/6,247,602
+154,Europe,BindingMachine56,11611227,2019/11/3,870,960
+155,Asia,Cpu37,12111825,2013/3/3,728,521
+156,Asia,ToasterElectricOven64,12011011,2011/6/28,869,806
+157,"Hong Kong, Macao and Taiwan regions of China",MobilePowerN6,11512521,2014/3/17,583,765
+158,Eastern China,TelephoneConferenceY7,11912109,2009/9/16,783,604
+159,"Hong Kong, Macao and Taiwan regions of China",Air-ConditioningFan21,11711609,2014/3/6,572,597
+160,Eastern China,LaptopDockingStationQ9,12211621,2011/8/28,576,100
+161,Europe,BuildingIntercom75,11711728,2010/5/26,758,157
+162,Southern China,PocketPcV3,11112809,2008/12/20,577,378
+163,"Hong Kong, Macao and Taiwan regions of China",Anti-TheftAlarmHost87,11710319,2021/2/28,215,208
+164,Southwestern China,Converter21,11110111,2012/7/8,692,216
+165,Northern China,ServerBarebonesT3,11411014,2018/4/3,547,805
+166,Southern China,AirConditioner71,12111613,2011/7/19,564,999
+167,"Hong Kong, Macao and Taiwan regions of China",HoodB4,11710200,2018/5/10,772,406
+168,Asia,PrintServer04,11610700,2019/2/25,455,572
+169,Europe,Ssd73,11611812,2010/5/15,871,577
+170,"Hong Kong, Macao and Taiwan regions of China",MobilePhoneFilm18,11112606,2011/2/12,631,375
+171,Europe,CameraFilmQ3,11611227,2012/8/5,805,183
+172,Europe,FlashCardU8,11210524,2012/2/22,490,488
+173,Northern China,GameChargerN0,11312521,2014/1/16,913,326
+174,Southern China,Server40,11610326,2019/4/6,957,608
+175,America,VideoCaptureCard04,12012818,2020/8/20,546,373
+176,Northern China,PrinterH8,11911015,2008/3/29,919,264
+177,Southwestern China,AccessControlMachine78,12211320,2012/9/29,340,627
+178,Asia,SaasSoftwareE0,12010010,2018/6/23,134,677
+179,Northern China,HardDiskA7,11312700,2017/1/11,110,849
+180,Northern China,Router48,11911804,2013/12/21,960,335
+181,America,HumidifierZ4,11611101,2013/8/28,758,406
+182,Southwestern China,GasWaterHeaterF4,11510516,2008/9/10,400,855
+183,Eastern China,ServerAccessoriesC2,11510305,2021/12/18,268,428
+184,"Hong Kong, Macao and Taiwan regions of China",FlashCard95,11712202,2014/5/25,473,602
+185,Asia,CasetteLibraryI1,12111620,2021/9/26,564,858
+186,Northern China,DvdPlayer89,11412715,2016/3/11,966,588
+187,"Hong Kong, Macao and Taiwan regions of China",ConnectingLine29,11811124,2018/6/2,119,756
+188,Europe,BarcodeAndCardReadingEquipment71,12111922,2009/2/11,752,363
+189,Northern China,Telescope03,11812423,2021/3/8,892,523
+190,"Hong Kong, Macao and Taiwan regions of China",PrintMediaL2,12212407,2018/10/9,644,980
+191,Southern China,WirelessHd53,11612422,2014/5/1,580,292
+192,Southwestern China,PhotoBox60,11710805,2015/7/10,824,841
+193,Europe,CasetteLibraryT2,12111922,2011/5/15,900,723
+194,Asia,ServerChassis79,11812801,2008/5/28,893,449
+195,Europe,PhotoBox56,12111228,2008/11/15,593,517
+196,Northern China,ServerPower76,11210120,2020/5/9,121,931
+197,Southwestern China,SteeringWheel49,12111906,2017/5/16,475,755
+198,America,DigitalMobileTvO8,11810107,2021/4/17,914,191
+199,Eastern China,CabinetZ4,11811901,2018/7/12,190,853
+200,America,SolarWaterHeaters12,11210418,2021/3/29,949,674
+201,Europe,ScreenSplitter58,11711728,2020/3/26,559,570
+202,Eastern China,Scanner87,11510326,2017/5/2,444,505
+203,Southern China,Multifunctional31,11210028,2015/2/15,652,884
+204,Europe,ComputerRemoteControlN5,11410529,2018/5/15,804,656
+205,Northern China,LensCapR5,11911609,2009/7/4,984,188
+206,Southwestern China,ToasterElectricOvenB8,11710805,2018/10/9,839,908
+207,Eastern China,DotMatrixPrinterV1,11210026,2012/7/4,963,658
+208,Northern China,DotMatrixPrinter76,11711516,2016/2/7,211,568
+209,Southwestern China,DigitizerX4,11810305,2012/7/31,388,504
+210,Southern China,HeatSink24,12211003,2010/4/24,640,280
+211,America,RibbonD5,11512914,2011/7/26,249,542
+212,Eastern China,FaxMachineCopierD4,11912109,2016/6/23,509,959
+213,Asia,MobilePhoneCarAccessoriesW6,12011011,2016/2/25,379,889
+214,Europe,DigitalCamera90,12111027,2021/10/9,283,303
+215,Asia,Mp437,11710328,2009/7/12,250,944
+216,Europe,BillingSystemC5,12111922,2020/10/24,144,349
+217,Southwestern China,ToasterElectricOvenO2,11411810,2020/8/26,167,470
+218,Northern China,ConnectingLine29,11812728,2018/11/5,111,422
+219,Europe,SoyMilkMachineF7,12111228,2021/8/25,225,955
+220,"Hong Kong, Macao and Taiwan regions of China",Cd-Rom67,11712202,2009/2/5,739,959
+221,Eastern China,BuildingIntercom95,11211620,2018/5/29,966,109
+222,Northern China,NetworkManagementAndBackupSoftwarevirtualizationSoftware51,11412715,2012/9/9,163,263
+223,"Hong Kong, Macao and Taiwan regions of China",ServerBarebonesH4,11810528,2021/8/5,495,527
+224,Europe,Mp4C9,11412615,2010/6/30,619,297
+225,"Hong Kong, Macao and Taiwan regions of China",WirelessSecurity90,11810528,2016/5/10,110,821
+226,Southwestern China,NotebookAccessoriesA7,11811307,2012/10/17,490,511
+227,Eastern China,TeachingSoftwareO3,11612806,2021/4/14,337,288
+228,"Hong Kong, Macao and Taiwan regions of China",IntranetSecurityNetworkVulnerabilityScanningP0,12011219,2012/8/13,560,785
+229,"Hong Kong, Macao and Taiwan regions of China",AirPurifierD4,11612910,2020/5/16,202,592
+230,America,IndustrialNetworkSwitchA7,11210418,2014/3/2,981,659
+231,Europe,ChargerF5,12111228,2015/10/30,709,340
+232,America,EarphoneV5,12011924,2018/8/7,374,852
+233,Southwestern China,WirelessNetworkCardD4,11110111,2012/1/14,100,187
+234,Europe,DisinfectionCabinetX2,11611227,2012/4/3,986,864
+235,Europe,ServerBarebones96,11412326,2016/10/14,523,813
+236,Southwestern China,ConverterE1,11411810,2009/5/16,893,703
+237,Northern China,DatabaseSoftware09,11412715,2009/5/5,562,819
+238,"Hong Kong, Macao and Taiwan regions of China",AirConditioner71,12210114,2019/12/12,540,218
+239,America,AirConditioner27,12012116,2017/1/19,681,870
+240,Northern China,DotMatrixPrinterS4,11510129,2017/10/11,379,602
+241,Southern China,SurveillanceCaptureCard79,11312522,2019/2/6,635,812
+242,"Hong Kong, Macao and Taiwan regions of China",FootBathEyeProtectionLamp14,11612910,2008/1/10,562,655
+243,Europe,ServerAccessoriesO3,11611903,2021/3/21,301,457
+244,Southern China,FaxMachineCopierY2,12011702,2012/2/18,212,248
+245,"Hong Kong, Macao and Taiwan regions of China",PaperCutterI4,11710319,2009/9/20,141,307
+246,Europe,InternetBehaviorManagement96,11211418,2012/10/5,944,335
+247,Asia,PrintMediaY8,11710328,2009/11/2,525,910
+248,Europe,SolarWaterHeaters26,12211106,2010/3/1,632,106
+249,Europe,WirelessSecurityS4,11211418,2015/8/22,536,664
+250,Southwestern China,HairDryer59,12111627,2018/8/24,759,608
+251,Southern China,All-In-OnePrintingMachineW9,12111125,2015/4/9,284,406
+252,Northern China,KeyboardAndMouseSet90,11411014,2015/6/24,406,644
+253,Europe,Speaker31,11511625,2013/11/30,654,411
+254,Southern China,DvdPlayer89,12011702,2016/11/27,557,444
+255,Southern China,HardDiskExtractionBoxA4,11812213,2011/1/19,492,275
+256,Asia,RangeHoodI8,11810208,2008/9/15,518,746
+257,"Hong Kong, Macao and Taiwan regions of China",ConsoleA3,12210516,2019/7/2,930,838
+258,Asia,MobilePhoneFilmH3,11612521,2019/8/8,618,219
+259,"Hong Kong, Macao and Taiwan regions of China",FiberEquipment38,11411608,2013/8/10,563,388
+260,Southwestern China,DestroyEquipmentM9,11610329,2017/6/20,679,529
+261,Southern China,TabletCase05,12012001,2019/4/17,678,545
+262,Europe,EarphoneP5,11612023,2014/8/2,401,255
+263,"Hong Kong, Macao and Taiwan regions of China",FlashAccessories19,11512202,2013/2/10,514,521
+264,America,Multifunctional31,11911118,2018/12/14,519,494
+265,Northern China,MobilePhoneCompanionI6,11812728,2016/9/18,978,281
+266,"Hong Kong, Macao and Taiwan regions of China",AccessController53,11211915,2013/12/29,414,181
+267,Southwestern China,CoffeeMachineL7,11811720,2012/9/20,762,676
+268,Southern China,LaptopDesk45,12111125,2008/7/30,1000,827
+269,Eastern China,InductionDetector38,11610927,2021/3/1,636,316
+270,Northern China,ServerPower76,11510129,2015/7/15,853,355
+271,"Hong Kong, Macao and Taiwan regions of China",ModularInterfaceCardHub96,11112606,2014/6/14,151,221
+272,"Hong Kong, Macao and Taiwan regions of China",ElectricIronD7,12010902,2009/2/28,123,394
+273,Eastern China,LightningProtectionProducts26,11612806,2014/2/7,790,182
+274,America,Tablet82,11410600,2018/1/28,485,686
+275,Northern China,InkCartridgeC4,11812423,2016/3/16,949,566
+276,Europe,Anti-TheftAlarmHostN4,12111027,2019/12/27,645,533
+277,Asia,CameraBattery26,11311306,2009/6/11,972,721
+278,Asia,TabletBase60,11410313,2014/2/21,690,179
+279,Eastern China,CameraBagI1,11811901,2014/8/26,613,280
+280,Eastern China,DvrL0,11911120,2019/3/28,993,122
+281,Eastern China,MobilePhoneJ2,12010225,2011/5/20,440,765
+282,Southwestern China,CardPrinterP8,11310305,2021/4/3,692,599
+283,America,PrintMediaD1,11911118,2016/5/21,642,708
+284,Europe,WirelessHdX1,11211418,2016/10/14,674,613
+285,"Hong Kong, Macao and Taiwan regions of China",BarcodeAndCardReadingEquipment71,11712202,2013/3/5,483,799
+286,Eastern China,TonerCartridge29,11612024,2011/6/13,656,757
+287,"Hong Kong, Macao and Taiwan regions of China",WirelessRouter47,11711609,2016/1/19,391,167
+288,Eastern China,LoadBalancing61,11211016,2010/9/20,486,545
+289,Northern China,Repeater97,11812423,2017/2/4,712,796
+290,America,VideoDistributorR8,12012818,2015/3/4,793,664
+291,Northern China,FruitAndVegetableWashingMachineF9,11210120,2011/4/14,873,905
+292,Southern China,TransceiverU0,12012001,2017/7/8,790,786
+293,Eastern China,AirConditioner71,11610927,2014/8/26,784,500
+294,Europe,HardDiskA7,11611227,2012/7/16,808,234
+295,Europe,GameMachineWire89,11512607,2012/6/28,740,208
+296,Eastern China,PrintServer18,12012421,2012/6/30,897,507
+297,Asia,LightningProtectionProductsV0,12110020,2020/2/14,532,366
+298,Southwestern China,SaasSoftwareY1,11611019,2018/2/11,457,964
+299,Europe,ScreenSplitterB7,11412615,2021/1/10,174,300
+300,Asia,NetworkExtenderA0,11612315,2020/3/12,190,113
+301,"Hong Kong, Macao and Taiwan regions of China",ServerMotherboardQ7,11212008,2013/3/27,948,594
+302,Northern China,PrintServerX4,11211721,2014/8/11,398,935
+303,"Hong Kong, Macao and Taiwan regions of China",MobilePower20,11311902,2018/10/18,289,830
+304,Southern China,BarcodeAndCardReadingEquipment34,12111601,2016/8/25,476,982
+305,"Hong Kong, Macao and Taiwan regions of China",WirelessRouter47,11411608,2012/4/17,381,180
+306,Asia,ScreenSplitterA3,11212823,2017/11/27,630,421
+307,Europe,TvHanger69,11812319,2020/2/28,834,487
+308,Europe,Blu-RayPlayer63,11210013,2013/6/27,240,252
+309,"Hong Kong, Macao and Taiwan regions of China",CarEquipment85,11512521,2011/9/24,748,767
+310,"Hong Kong, Macao and Taiwan regions of China",LaptopDesk43,11612910,2013/12/6,284,227
+311,Eastern China,Anti-SlipMobilePhone26,11612024,2010/7/6,662,461
+312,"Hong Kong, Macao and Taiwan regions of China",CasetteLibraryJ4,11710319,2011/10/16,651,946
+313,Northern China,ServerChassis71,11111028,2009/2/26,721,933
+314,Eastern China,MobilePhoneCarAccessoriesW6,11512115,2019/8/31,936,859
+315,"Hong Kong, Macao and Taiwan regions of China",SaasSoftware94,11612910,2015/4/19,373,495
+316,America,SolarWaterHeatersU5,11310827,2021/1/2,274,193
+317,Europe,Anti-TheftAlarmHostW0,12111922,2021/2/13,481,471
+318,Southern China,CasetteLibraryI1,12011319,2014/8/10,530,780
+319,America,CashRegister06,11911118,2011/1/7,948,678
+320,Europe,CustomerManagementSoftwareCrm49,11711728,2017/10/7,785,795
+321,Asia,LensQ4,11210906,2020/9/12,992,364
+322,Eastern China,FlatFilm07,11912109,2018/3/28,703,773
+323,Eastern China,KeyboardAndMouseSetF3,12010225,2018/9/17,431,590
+324,America,ScreenSplitterB7,11210921,2021/2/12,187,385
+325,Europe,DotMatrixPrinter76,11611812,2018/6/17,171,372
+326,Southwestern China,HumidifierY5,11811307,2011/12/10,825,253
+327,"Hong Kong, Macao and Taiwan regions of China",TelephoneH7,11211915,2019/5/24,776,338
+328,Asia,CashRegisterY2,11512100,2015/1/25,432,281
+329,Southern China,GpsI3,11112809,2011/11/16,583,941
+330,Southwestern China,WaterDispenserI8,11110111,2013/10/26,459,847
+331,Asia,MobileHardDisk72,11211517,2021/2/1,879,622
+332,Europe,CasetteLibraryI1,11612023,2021/3/6,456,351
+333,Europe,All-In-OnePrintingMachineW9,11711728,2013/10/25,428,772
+334,Asia,CasetteLibraryD5,11211517,2009/7/24,773,414
+335,Europe,UpsPowerShredder92,11211418,2018/7/29,687,408
+336,Northern China,MobilePhoneFilm78,11111028,2008/2/17,292,585
+337,"Hong Kong, Macao and Taiwan regions of China",PhotocopyingMachineS8,11810528,2021/3/17,921,125
+338,"Hong Kong, Macao and Taiwan regions of China",CarEquipment35,11710106,2009/6/13,484,222
+339,"Hong Kong, Macao and Taiwan regions of China",AidedDesign24,11811124,2017/2/24,821,234
+340,Southwestern China,CardReaderL3,11110111,2020/10/1,503,645
+341,America,FlashAccessories76,11512914,2008/1/19,463,409
+342,Southern China,HotPotJ2,12010417,2015/9/14,217,574
+343,Eastern China,RepeaterV9,11612024,2013/5/28,575,333
+344,Eastern China,Mouse12,11310409,2010/5/28,129,849
+345,Southwestern China,OfficeSoftwareT1,11610322,2013/9/23,258,131
+346,Europe,RealEstateL1,12211106,2008/10/8,176,747
+347,Asia,BillingSystem06,12010010,2013/11/11,573,277
+348,Northern China,CursorMarkingMachineR0,12112222,2021/8/28,707,626
+349,Eastern China,HardDiskExtractionBoxA4,11510326,2008/2/16,184,550
+350,Europe,DesktopPcZ6,11210013,2019/5/22,204,144
+351,Eastern China,ServerAccessories38,11610927,2014/8/18,589,514
+352,Eastern China,DigitalFrame48,11211620,2008/2/5,730,234
+353,America,NetworkExtenderL1,12210416,2015/10/9,840,127
+354,Northern China,All-In-OnePrintingMachineW9,11312521,2008/6/18,219,537
+355,Asia,TvPlayer60,11710328,2017/8/15,365,794
+356,Europe,BarcodeAndCardReadingEquipment34,11210013,2021/11/25,791,499
+357,"Hong Kong, Macao and Taiwan regions of China",ReceiptPrinter06,12212407,2008/12/6,521,859
+358,Europe,FootBathEyeProtectionLamp74,11210524,2019/10/15,523,772
+359,Eastern China,GpsI3,11512206,2021/10/27,923,315
+360,Asia,PowerAmplifierA3,12111620,2012/10/17,578,796
+361,Northern China,TransceiverU0,11712325,2013/6/22,970,689
+362,Eastern China,PowerAmplifierJ9,11310409,2019/10/10,166,101
+363,Eastern China,MouseG8,11612024,2011/3/25,126,690
+364,Northern China,HotPot92,11812423,2021/4/9,645,730
+365,Southwestern China,OperatingSystemH9,11810305,2014/12/3,197,183
+366,Europe,HeatSink10,11512607,2012/12/7,335,861
+367,America,Filter19,11611905,2012/8/23,384,714
+368,Asia,ServerBarebones96,11612315,2014/10/30,275,768
+369,"Hong Kong, Macao and Taiwan regions of China",FirewallX5,11712202,2020/11/14,996,693
+370,America,MouseG8,11310324,2014/2/2,772,259
+371,Northern China,CashRegister74,12111814,2019/8/8,698,711
+372,Southwestern China,Mp437,11110111,2009/8/24,160,769
+373,Asia,HeatSink95,11211517,2009/11/12,626,747
+374,"Hong Kong, Macao and Taiwan regions of China",PhotoBox94,12210904,2021/5/8,214,152
+375,"Hong Kong, Macao and Taiwan regions of China",GameLightGunGamePeripheralL5,12210516,2017/7/31,267,922
+376,America,Monocular31,11911118,2016/11/2,190,823
+377,Southern China,SoundCard93,11112809,2021/5/18,169,748
+378,Southern China,NotebookCaseZ1,12010417,2014/2/14,447,618
+379,Southwestern China,ScannerO9,11812407,2021/12/26,757,986
+380,Eastern China,MotherboardChipsetK8,11811901,2013/3/24,825,767
+381,Southwestern China,ImageAlarm41,11311712,2015/10/3,447,327
+382,Northern China,InkjetPrintersS4,12111814,2020/10/31,496,134
+383,America,WirelessRouter47,11410600,2017/9/23,465,705
+384,Northern China,BinocularsJ1,11612609,2012/3/13,320,275
+385,Europe,MobileHardDisk72,11511625,2021/4/24,555,280
+386,Europe,All-In-OnePrintingMachineW9,11210013,2020/9/13,697,888
+387,America,Tape53,11512800,2011/5/19,405,450
+388,America,Anti-SlipMobilePhone87,11512914,2016/11/16,724,834
+389,Asia,GraphicsCardC0,11612521,2009/6/17,334,537
+390,Southwestern China,InkjetPrintersS4,11110111,2011/6/25,919,753
+391,Europe,Converter21,11412311,2013/2/16,576,469
+392,Asia,RepeaterB1,11312106,2011/3/23,680,307
+393,Southwestern China,GameChargerK2,11610322,2015/10/5,440,125
+394,Asia,PlasmaTv10,11612315,2017/6/3,784,197
+395,Southwestern China,YubaR4,11710805,2011/11/27,433,986
+396,Eastern China,MotherboardP7,11511710,2014/10/16,171,246
+397,Northern China,AirPurifierV6,11612609,2019/7/20,908,399
+398,"Hong Kong, Macao and Taiwan regions of China",RouterX4,11411608,2013/1/13,612,799
+399,"Hong Kong, Macao and Taiwan regions of China",MouseFootStickerK1,11710319,2017/11/28,671,509
+400,Europe,GameMachineWire80,11711728,2011/3/31,482,607

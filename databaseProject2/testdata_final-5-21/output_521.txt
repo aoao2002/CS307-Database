@@ -1,0 +1,19 @@
+Q6 
+Director                 8
+Contracts Manager        160
+Salesman                 640
+Supply Staff             192
+Q7 112
+Q8 529
+Q9 55
+Q10 
+WirelessSecurity90            1762
+Q11 
+America                                         303.4
+Asia                                            226.4
+Eastern China                                   183.9
+Europe                                          322.8
+Hong Kong, Macao and Taiwan regions of China    267.4
+Northern China                                  224.6
+Southern China                                  234.2
+Southwestern China                              313.6
